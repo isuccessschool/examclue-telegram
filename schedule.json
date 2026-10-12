@@ -1,6 +1,6 @@
 [
   {
-    "id": "live-d0-1800-mcq-polity",
+    "id": "live2-d0-1800-mcq-polity",
     "when": "2026-10-12 18:00",
     "type": "quiz_set",
     "title": "आज का MCQ Quiz: राजव्यवस्था (Polity)",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "live-d0-2200-promo-gs3030",
+    "id": "live2-d0-2200-promo-gs3030",
     "when": "2026-10-12 22:00",
     "type": "promo",
     "promo": "gs3030"
