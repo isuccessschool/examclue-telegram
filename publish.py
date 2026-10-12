@@ -71,13 +71,22 @@ def call(method, fields=None, files=None):
     else:
         data = json.dumps(fields).encode()
         req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            return json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode(errors="replace")
-        # token kabhi print nahi karte
-        raise RuntimeError(f"Telegram error {e.code} on {method}: {detail}") from None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode(errors="replace")
+            if (e.code == 429 or e.code >= 500) and attempt < 2:  # thodi der ruko, phir dobara
+                time.sleep(5 * (attempt + 1))
+                continue
+            # token kabhi print nahi karte
+            raise RuntimeError(f"Telegram error {e.code} on {method}: {detail}") from None
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+                continue
+            raise RuntimeError(f"Network error on {method}: {type(e).__name__}") from None
 
 
 def chat():
@@ -257,17 +266,28 @@ def send_entry(e, cfg, promos):
                 time.sleep(0 if DRY_RUN else 1)
 
 
+def load_status():
+    f = ROOT / "status.json"
+    if f.exists():
+        with open(f, encoding="utf-8") as fh:
+            return json.load(fh)
+    return {}
+
+
 def main():
     check_only = "--check" in sys.argv
     cfg = load("config.json")
     promos = load("promos.json")
     schedule = load("schedule.json")
+    status = load_status()  # sirf bot is file ko badalta hai; schedule.json aap khud badalte ho
     now = datetime.now(IST)
     changed = False
     bad = 0
+    failed = 0
 
     for e in schedule:
-        if e.get("status") in ("posted", "missed"):
+        st = status.get(e.get("id"), {}).get("status")
+        if st in ("posted", "missed", "error"):
             continue
         errs = validate_entry(e, cfg, promos)
         when = datetime.strptime(e["when"], "%Y-%m-%d %H:%M").replace(tzinfo=IST) if not any("'when'" in x for x in errs) else None
@@ -275,35 +295,33 @@ def main():
         if errs:
             bad += 1
             print(f"[{e.get('id')}] GALAT: " + "; ".join(errs))
-            if due and not check_only:
-                e["status"] = "error"
-                e["error"] = "; ".join(errs)
-                changed = True
             continue
         if check_only or not due:
             continue
         if now - when > timedelta(hours=CATCH_UP_HOURS):
-            e["status"] = "missed"
+            status[e["id"]] = {"status": "missed"}
             changed = True
             print(f"[{e['id']}] bahut purani, missed mark kiya")
             continue
         print(f"[{e['id']}] bhej raha hoon ({e['type']})")
         try:
             send_entry(e, cfg, promos)
-            e["status"] = "posted"
-            e["posted_at"] = now.strftime("%Y-%m-%d %H:%M")
-            changed = True
-        except Exception as ex:  # ek post fail ho to baaki rukein nahi
-            e["status"] = "error"
-            e["error"] = str(ex)[:300]
-            changed = True
+            status[e["id"]] = {"status": "posted", "posted_at": now.strftime("%Y-%m-%d %H:%M")}
+        except Exception as ex:  # ek post fail ho to baaki rukein nahi; dobara bhejna nahi (duplicate se bachne ke liye)
+            status[e["id"]] = {"status": "error", "error": str(ex)[:300]}
+            failed += 1
             print(f"[{e['id']}] ERROR: {ex}")
+        changed = True
 
     if changed and not DRY_RUN:
-        save("schedule.json", schedule)
+        with open(ROOT / "status.json", "w", encoding="utf-8") as fh:
+            json.dump(status, fh, ensure_ascii=False, indent=2)
+            fh.write("\n")
     if check_only:
         print(f"Jaanch poori. Galat entries: {bad}")
         sys.exit(1 if bad else 0)
+    if failed:
+        sys.exit(1)  # GitHub failed-run ki email bhejega, tab pata chal jayega
 
 
 if __name__ == "__main__":
