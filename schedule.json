@@ -3,7 +3,9 @@
     "id": "test-hello",
     "when": "2026-10-12 14:00",
     "type": "text",
-    "text": "✅ Test message: bot theek se kaam kar raha hai."
+    "text": "✅ Test message: bot theek se kaam kar raha hai.",
+    "status": "posted",
+    "posted_at": "2026-10-12 14:46"
   },
   {
     "id": "d0-1800-mcq-polity",
