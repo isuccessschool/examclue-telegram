@@ -1,90 +1,156 @@
 {
-  "gs3030": {
-    "title": "🎯 Exam Clue GS 30/30 - GK/GS के 30 सवालों की पूरी, सही और सटीक तैयारी",
-    "points": [
-      "GS + GK + Current Affairs के exam-oriented सवाल",
-      "Time-bound practice और Score & Performance Analysis",
-      "UP TGT, UP PGT, Principal, TET, Super TET के लिए उपयोगी"
-    ],
-    "button": "GS 30/30 देखें",
-    "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
-    "image": "images/promo_gs3030.jpg"
-  },
-  "gsgk_masterguide": {
-    "title": "📚 GS/GK Masterguide (हिंदी माध्यम)",
-    "points": [
-      "समसामयिकी, इतिहास, राजव्यवस्था, अर्थव्यवस्था, भूगोल, विज्ञान और ICT",
-      "UPESSC TGT | PGT | Principal | Super TET के लिए",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "https://link.amazon/B00jY7qEr",
-    "image": "images/promo_gsgk_masterguide.jpg"
-  },
-  "pgt_masterguide": {
-    "title": "📖 UPPGT English Literature Masterguide",
-    "points": [
-      "पूरा Literature syllabus: Periods, Figures of Speech, Critics, Authors",
-      "Concept-based notes, PYQs, Practice MCQs और Model Answers",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "https://link.amazon/B0hkz5a9p",
-    "image": "images/promo_uppgt_masterguide.jpg"
-  },
-  "pgt_15sets": {
-    "title": "📝 UPPGT English 15 Practice Sets",
-    "points": [
-      "1,800 MCQs | 15 Full Sets (30 GS/GK + 90 English प्रति Set)",
-      "हर सवाल का Full Explanation, नए UPESSC syllabus पर आधारित",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "https://link.amazon/B0dU2kOSB",
-    "image": "images/promo_uppgt_15sets.jpg"
-  },
-  "tgt_15sets": {
-    "title": "📝 UPTGT English 15 Practice Sets",
-    "points": [
-      "1,800 MCQs | 15 Full Sets (30 GS/GK + 90 English प्रति Set)",
-      "हर सवाल का Full Explanation, नए UPESSC syllabus पर आधारित",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "https://link.amazon/B04W9bJUr",
-    "image": "images/promo_uptgt_15sets.jpg"
-  },
-  "tgt_masterguide": {
-    "title": "📖 UPTGT English Literature Masterguide (Updated Edition 2)",
-    "points": [
-      "UP TGT English और allied exams के लिए comprehensive reference",
-      "Shakespeare, Milton, Wordsworth, Keats, Galsworthy, Orwell कवर",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "https://link.amazon/B0jkgY1ei",
-    "image": "images/promo_uptgt_masterguide.jpg"
-  },
-  "tgt_micro_notes": {
-    "title": "⚡ UPTGT English (Literature) Micro Notes - Updated Edition 2",
-    "points": [
-      "Rapid Revision | High Frequency Questions | Final Success Blueprint",
-      "New Pattern के अनुसार",
-      "लेखक: Yogesh Chauhan, Neeraj Sisodia"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "TODO-MICRO-NOTES-LINK",
-    "image": "images/promo_uptgt_micro_notes.jpg"
-  },
-  "tgt_pyq": {
-    "title": "🗂️ UPTGT English PYQs Master Bank (2001-2025)",
-    "points": [
-      "2001 से 2025 तक के सभी UPTGT exams",
-      "100% Explained Solutions + Strategy & Practice Companion",
-      "लेखक: Yogesh Chauhan"
-    ],
-    "button": "Amazon पर देखें",
-    "url": "TODO-PYQ-LINK",
-    "image": "images/promo_uptgt_pyq.jpg"
-  }
+ "gs3030": {
+  "title": "🎯 Exam Clue GS 30/30 - GK/GS के 30 सवालों की पूरी, सही और सटीक तैयारी",
+  "points": [
+   "GS + GK + Current Affairs के exam-oriented सवाल",
+   "Time-bound practice और Score & Performance Analysis",
+   "UP TGT, UP PGT, Principal, TET, Super TET के लिए उपयोगी"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gsgk_masterguide": {
+  "title": "📚 GS/GK Masterguide (हिंदी माध्यम)",
+  "points": [
+   "समसामयिकी, इतिहास, राजव्यवस्था, अर्थव्यवस्था, भूगोल, विज्ञान और ICT",
+   "UPESSC TGT | PGT | Principal | Super TET के लिए",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "https://link.amazon/B00jY7qEr",
+  "image": "images/promo_gsgk_masterguide.jpg"
+ },
+ "pgt_masterguide": {
+  "title": "📖 UPPGT English Literature Masterguide",
+  "points": [
+   "पूरा Literature syllabus: Periods, Figures of Speech, Critics, Authors",
+   "Concept-based notes, PYQs, Practice MCQs और Model Answers",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "https://link.amazon/B0hkz5a9p",
+  "image": "images/promo_uppgt_masterguide.jpg"
+ },
+ "pgt_15sets": {
+  "title": "📝 UPPGT English 15 Practice Sets",
+  "points": [
+   "1,800 MCQs | 15 Full Sets (30 GS/GK + 90 English प्रति Set)",
+   "हर सवाल का Full Explanation, नए UPESSC syllabus पर आधारित",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "https://link.amazon/B0dU2kOSB",
+  "image": "images/promo_uppgt_15sets.jpg"
+ },
+ "tgt_15sets": {
+  "title": "📝 UPTGT English 15 Practice Sets",
+  "points": [
+   "1,800 MCQs | 15 Full Sets (30 GS/GK + 90 English प्रति Set)",
+   "हर सवाल का Full Explanation, नए UPESSC syllabus पर आधारित",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "https://link.amazon/B04W9bJUr",
+  "image": "images/promo_uptgt_15sets.jpg"
+ },
+ "tgt_masterguide": {
+  "title": "📖 UPTGT English Literature Masterguide (Updated Edition 2)",
+  "points": [
+   "UP TGT English और allied exams के लिए comprehensive reference",
+   "Shakespeare, Milton, Wordsworth, Keats, Galsworthy, Orwell कवर",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "https://link.amazon/B0jkgY1ei",
+  "image": "images/promo_uptgt_masterguide.jpg"
+ },
+ "tgt_micro_notes": {
+  "title": "⚡ UPTGT English (Literature) Micro Notes - Updated Edition 2",
+  "points": [
+   "Rapid Revision | High Frequency Questions | Final Success Blueprint",
+   "New Pattern के अनुसार",
+   "लेखक: Yogesh Chauhan, Neeraj Sisodia"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "TODO-MICRO-NOTES-LINK",
+  "image": "images/promo_uptgt_micro_notes.jpg"
+ },
+ "tgt_pyq": {
+  "title": "🗂️ UPTGT English PYQs Master Bank (2001-2025)",
+  "points": [
+   "2001 से 2025 तक के सभी UPTGT exams",
+   "100% Explained Solutions + Strategy & Practice Companion",
+   "लेखक: Yogesh Chauhan"
+  ],
+  "button": "Amazon पर देखें",
+  "url": "TODO-PYQ-LINK",
+  "image": "images/promo_uptgt_pyq.jpg"
+ },
+ "gs3030_a": {
+  "title": "⏱️ GS 30/30 – 30 सवाल, तय समय में",
+  "points": [
+   "Exam जैसी Time-bound practice – speed और accuracy दोनों बढ़ाइए",
+   "GS + GK + Current Affairs के exam-oriented सवाल",
+   "UP TGT, UP PGT, Principal, TET, Super TET के लिए उपयोगी"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gs3030_b": {
+  "title": "📊 GS 30/30 – हर test के बाद Score & Performance Analysis",
+  "points": [
+   "पता चलेगा कौन-सा topic मज़बूत है और कहाँ सुधार चाहिए",
+   "सही दिशा में रोज़ की तैयारी, अंदाज़े से नहीं",
+   "UP TGT, UP PGT, Principal, TET, Super TET के लिए"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gs3030_c": {
+  "title": "✅ आज का quiz पसंद आया? ऐसे ही सवाल GS 30/30 में",
+  "points": [
+   "Exam-oriented GS/GK और Current Affairs की पूरी practice",
+   "हर सवाल सही और सटीक, तैयारी की सही दिशा",
+   "UP TGT, UP PGT, Principal, TET, Super TET के लिए उपयोगी"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gs3030_d": {
+  "title": "🏆 GS/GK में कमज़ोर कड़ी पकड़िए – GS 30/30",
+  "points": [
+   "30 सवालों की पूरी, सही और सटीक तैयारी",
+   "Practice के बाद Performance Analysis से अपनी कमज़ोरी जानिए",
+   "UP TGT, UP PGT, Principal, TET, Super TET के लिए"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gs3030_e": {
+  "title": "📚 GS + GK + Current Affairs – एक ही जगह, GS 30/30",
+  "points": [
+   "Exam Clue का Time-bound practice program",
+   "Score & Performance Analysis के साथ अपनी तैयारी परखिए",
+   "पूछताछ के लिए WhatsApp: 9412195574"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ },
+ "gs3030_f": {
+  "title": "🚀 UP TGT/PGT की तैयारी को दीजिए सही Practice – GS 30/30",
+  "points": [
+   "GK/GS के 30 सवालों की पूरी, सही और सटीक तैयारी",
+   "Time-bound practice और Performance Analysis",
+   "Principal, TET, Super TET के लिए भी उपयोगी"
+  ],
+  "button": "GS 30/30 देखें",
+  "url": "https://jagop.on-app.in/app/oc/896319/jagop?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app",
+  "image": "images/promo_gs3030.jpg"
+ }
 }
