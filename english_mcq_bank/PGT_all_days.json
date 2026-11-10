@@ -1,0 +1,6322 @@
+[
+ {
+  "exam": "UP PGT English",
+  "day": 1,
+  "date": "2026-11-06",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Willy Loman is the hero of",
+    "options": [
+     "Death of a Salesman",
+     "The Crucible",
+     "All My Sons",
+     "A View from the Bridge"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Willy, a travelling salesman, is the common man as tragic hero.",
+    "type": "quiz",
+    "topic": "miller",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He is wise than his brother.",
+     "He is wiser than his brother.",
+     "He is more wiser than his brother.",
+     "He is wisest than his brother."
+    ],
+    "correct_option_id": 1,
+    "explanation": "Do not use a double comparative: 'more wiser' is wrong.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "'The ploughman homeward plods his weary way' - 'weary' is a",
+    "options": [
+     "Transferred epithet",
+     "Simile (comparison)",
+     "Pun (wordplay)",
+     "Oxymoron (paradox)"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The adjective 'weary' belongs to the ploughman, not the way; from Gray's Elegy.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "M"
+   },
+   {
+    "q_no": 4,
+    "question": "'Waverley' (1814) is by",
+    "options": [
+     "Charles Dickens",
+     "Walter Scott",
+     "Maria Edgeworth",
+     "Jane Austen"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Waverley is regarded as the first historical novel.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Madame Defarge appears in",
+    "options": [
+     "Bleak House",
+     "Little Dorrit",
+     "A Tale of Two Cities",
+     "Great Expectations"
+    ],
+    "correct_option_id": 2,
+    "explanation": "She knits the names of aristocrats condemned to die.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the antonym of 'prolific'",
+    "options": [
+     "Fertile",
+     "Creative",
+     "Productive",
+     "Barren"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Prolific = producing much; barren = unproductive.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Shakespeare's Sonnets are addressed to the 'Fair Youth' and the",
+    "options": [
+     "Dark Lady",
+     "Queen",
+     "Rival Poet",
+     "Muse Urania"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Dark Lady appears in Sonnets 127-152; the 'Rival Poet' appears in 78-86.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "'Hyperion' was left unfinished because Keats felt it",
+    "options": [
+     "Too romantic",
+     "Too short",
+     "Too political",
+     "Too Miltonic"
+    ],
+    "correct_option_id": 3,
+    "explanation": "He said 'English ought to be kept up' and abandoned the Miltonic style for The Fall of Hyperion.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Match: A Prufrock, B The Waste Land, C Four Quartets with 1 1943, 2 1922, 3 1915",
+    "options": [
+     "A-3, B-1, C-2",
+     "A-1, B-2, C-3",
+     "A-3, B-2, C-1",
+     "A-2, B-3, C-1"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Prufrock (1915), The Waste Land (1922), Four Quartets (1943).",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "H"
+   },
+   {
+    "q_no": 10,
+    "question": "Whitman's prose work on democracy is",
+    "options": [
+     "Drum-Taps",
+     "Democratic Vistas",
+     "Specimen Days",
+     "Leaves of Grass"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Published in 1871; Specimen Days (1882) is his prose memoir.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 2,
+  "date": "2026-11-07",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Ezekiel won the Sahitya Akademi Award for",
+    "options": [
+     "Sixty Poems",
+     "Latter-Day Psalms",
+     "The Third",
+     "The Exact Name"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Awarded in 1983 for Latter-Day Psalms (1982).",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The number of students were absent.",
+     "A number of students were absent.",
+     "A number of students was absent.",
+     "A number of student were absent."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'A number of' means 'several' and takes a plural verb.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "Who wrote the preface of Untouchable?",
+    "options": [
+     "Jawaharlal Nehru",
+     "Rabindranath Tagore",
+     "E. M. Forster",
+     "T. S. Eliot"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Forster's preface praised the novel's honest portrayal of an outcaste's day.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct tense: 'I ___ TV when the phone rang.'",
+    "options": [
+     "have watched",
+     "watched",
+     "am watching",
+     "was watching"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Past continuous for an action in progress interrupted by another past action.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "The iambic pentameter line has",
+    "options": [
+     "Ten syllables",
+     "Fourteen syllables",
+     "Eight syllables",
+     "Twelve syllables"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Five iambs: ten syllables in all. Shakespeare's and Milton's blank verse.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Arnold's terms for two contrasting forces of culture are",
+    "options": [
+     "Ethos and Pathos",
+     "Tradition and Talent",
+     "Fancy and Imagination",
+     "Hebraism and Hellenism"
+    ],
+    "correct_option_id": 3,
+    "explanation": "In Culture and Anarchy: Hebraism (strictness of conscience) and Hellenism (spontaneity of consciousness).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "H"
+   },
+   {
+    "q_no": 7,
+    "question": "Lamb's style in the essays is",
+    "options": [
+     "Scientific",
+     "Satirical and angry",
+     "Personal and whimsical",
+     "Formal and classical"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Lamb is called the 'prince of English essayists' for his humour, pathos and quaint archaisms.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "Change to the passive: 'Do it now.'",
+    "options": [
+     "It is done now.",
+     "Let it be done now.",
+     "It be done by you now.",
+     "It must do now."
+    ],
+    "correct_option_id": 1,
+    "explanation": "Imperative passive begins with 'Let'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 9,
+    "question": "'Amoretti' is a sonnet sequence by",
+    "options": [
+     "Edmund Spenser",
+     "Shakespeare",
+     "Philip Sidney",
+     "Michael Drayton"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Spenser's 89 sonnets, published 1595, celebrate his courtship of Elizabeth Boyle.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Match: A Benjy, B Addie Bundren, C Joe Christmas with 1 As I Lay Dying, 2 Light in August, 3 The Sound and the Fury",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-2, B-3, C-1",
+     "A-3, B-1, C-2",
+     "A-3, B-2, C-1"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Benjy narrates The Sound and the Fury; Addie dies in As I Lay Dying; Christmas is in Light in August.",
+    "type": "quiz",
+    "topic": "faul",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 3,
+  "date": "2026-11-08",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the synonym of 'sedulous'",
+    "options": [
+     "Diligent",
+     "Cunning",
+     "Lazy",
+     "Fierce"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Sedulous = hard-working, persevering.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "Match: A Dryden, B Pope, C Johnson with 1 Absalom and Achitophel, 2 The Rape of the Lock, 3 Rasselas",
+    "options": [
+     "A-2, B-1, C-3",
+     "A-1, B-3, C-2",
+     "A-1, B-2, C-3",
+     "A-3, B-2, C-1"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Dryden 1681; Pope 1712-14; Johnson 1759.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "Rearrange: P. to the market Q. she R. went S. yesterday",
+    "options": [
+     "SRQP",
+     "PQRS",
+     "QPRS",
+     "QRPS"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'She went to the market yesterday' - Q R P S.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Match: A Mending Wall, B Birches, C Fire and Ice with 1 North of Boston, 2 Mountain Interval, 3 New Hampshire",
+    "options": [
+     "A-1, B-3, C-2",
+     "A-3, B-2, C-1",
+     "A-1, B-2, C-3",
+     "A-2, B-1, C-3"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Mending Wall (1914), Birches (1916), Fire and Ice (collected in New Hampshire, 1923).",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "Daniel Deronda (1876) deals with",
+    "options": [
+     "Industrial England",
+     "Church reform",
+     "Crimean war",
+     "Jewish identity"
+    ],
+    "correct_option_id": 3,
+    "explanation": "It is Eliot's last novel; Gwendolen Harleth and Daniel Deronda are the leads.",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "'Emma' and 'Persuasion' were written by",
+    "options": [
+     "Charlotte Bronte",
+     "George Eliot",
+     "Jane Austen",
+     "Fanny Burney"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Austen's novels also include Pride and Prejudice (1813) and Sense and Sensibility (1811).",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "'Nature, red in tooth and claw' is from",
+    "options": [
+     "Maud",
+     "In Memoriam",
+     "Locksley Hall",
+     "Ulysses"
+    ],
+    "correct_option_id": 1,
+    "explanation": "It occurs in Section 56 of In Memoriam, showing doubt caused by evolution.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "In 'The Rape of the Lock', the heroine is",
+    "options": [
+     "Belinda",
+     "Thalestris",
+     "Arabella",
+     "Clarissa"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Belinda's lock is cut by the Baron; Pope based it on the quarrel of Arabella Fermor and Lord Petre.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "One word for 'a person who hates mankind':",
+    "options": [
+     "Philanthropist",
+     "Egoist",
+     "Misogynist",
+     "Misanthrope"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Misanthrope hates people; misogynist hates women; philanthropist loves mankind.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Match: A Tess, B Jude, C The Return of the Native with 1 Sue Bridehead, 2 Eustacia Vye, 3 Angel Clare",
+    "options": [
+     "A-3, B-2, C-1",
+     "A-3, B-1, C-2",
+     "A-1, B-2, C-3",
+     "A-2, B-3, C-1"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Each heroine/hero belongs to a Wessex novel.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 4,
+  "date": "2026-11-09",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Change to the passive: 'Someone has stolen my watch.'",
+    "options": [
+     "My watch is stolen.",
+     "My watch has been stolen.",
+     "My watch had been stolen.",
+     "My watch was stolen."
+    ],
+    "correct_option_id": 1,
+    "explanation": "Present perfect passive: has/have been + past participle.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "'Dissociation of sensibility' is a phrase of",
+    "options": [
+     "T. S. Eliot",
+     "Coleridge",
+     "Arnold",
+     "Wordsworth"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Eliot used it in 'The Metaphysical Poets' (1921) to say thought and feeling split after Donne.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The 'Treatise on the Astrolabe' was written by Chaucer for",
+    "options": [
+     "His son Lewis",
+     "King Richard II",
+     "His wife Philippa",
+     "The Duke of Lancaster"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Chaucer wrote it c. 1391 for his ten-year-old son Lewis.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct tense: 'By the time we reached, the film ___.'",
+    "options": [
+     "starts",
+     "had started",
+     "has started",
+     "would start"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Past perfect for the earlier action in the past.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "'You are all a lost generation' was said by",
+    "options": [
+     "Gertrude Stein",
+     "Ezra Pound",
+     "T. S. Eliot",
+     "F. Scott Fitzgerald"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Stein's phrase is the epigraph of The Sun Also Rises.",
+    "type": "quiz",
+    "topic": "hem",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "'Lyrical Ballads' was first published in",
+    "options": [
+     "1807",
+     "1800",
+     "1798",
+     "1850"
+    ],
+    "correct_option_id": 2,
+    "explanation": "The Preface appeared in the 1800 edition.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 7,
+    "question": "Match: A Aristotle, B Coleridge, C Arnold with 1 Biographia Literaria, 2 Poetics, 3 Culture and Anarchy",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-3, B-1, C-2",
+     "A-2, B-3, C-1",
+     "A-2, B-1, C-3"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Poetics (4th century BC); Biographia Literaria (1817); Culture and Anarchy (1869).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "Choose the synonym of 'vivid'",
+    "options": [
+     "Dull",
+     "Dim",
+     "Faint",
+     "Bright"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Vivid = very clear and bright.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'Old Possum's Book of Practical Cats' (1939) is the basis of the musical",
+    "options": [
+     "Evita",
+     "Phantom of the Opera",
+     "Cats",
+     "Les Miserables"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Andrew Lloyd Webber's Cats (1981).",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Shelley's tragedy in five acts, based on a Roman crime, is",
+    "options": [
+     "Adonais",
+     "Prometheus Unbound",
+     "Hellas",
+     "The Cenci"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The Cenci (1819) is based on the story of Beatrice Cenci.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 5,
+  "date": "2026-11-10",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "The 'problem play' was popularised by",
+    "options": [
+     "Ibsen and Shaw",
+     "Jonson and Dekker",
+     "Congreve and Wycherley",
+     "Marlowe and Kyd"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Ibsen's A Doll's House (1879) began the modern problem play.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "'Hamlet' was first printed in the Quarto of",
+    "options": [
+     "1593",
+     "1609",
+     "1623",
+     "1603"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The 'bad quarto' (1603); the good quarto (1604/5) and the First Folio (1623) give fuller texts.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Librarry",
+     "Libary",
+     "Library",
+     "Librery"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Library has two r's.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The suffix '-ology' means",
+    "options": [
+     "Fear of",
+     "Study of",
+     "Rule of",
+     "Love of"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Biology, geology, zoology, psychology.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "A foot of two unstressed syllables followed by one stressed is an",
+    "options": [
+     "Anapaest",
+     "Dactyl",
+     "Iamb",
+     "Trochee"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Anapaest (u u /): 'in-ter-VENE'.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Himalayas are highest mountains of world.",
+     "The Himalayas is the highest mountain in the world.",
+     "The Himalayas are the highest mountains in the world.",
+     "The Himalaya are higher mountains in world."
+    ],
+    "correct_option_id": 2,
+    "explanation": "Plural proper noun 'the Himalayas' takes a plural verb and 'the' before the superlative.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Which sentence is correctly punctuated?",
+    "options": [
+     "'Come here' said the teacher 'and sit down'",
+     "'Come here,' said the teacher, 'and sit down.'",
+     "'Come here, said the teacher, and sit down.'",
+     "Come here, said the teacher, 'and sit down.'"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Commas separate the quotation from 'said the teacher'; each quotation is enclosed in inverted commas.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "'I have told you a million times.' The figure is",
+    "options": [
+     "Pun",
+     "Irony",
+     "Litotes",
+     "Hyperbole"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Hyperbole is deliberate exaggeration for effect.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Consider: 1) Chaucer wrote in Middle English. 2) The pilgrims set out from the Tabard Inn. Which are correct?",
+    "options": [
+     "Both 1 and 2",
+     "2 only",
+     "Neither 1 nor 2",
+     "1 only"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Tabard was in Southwark, near London.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "H"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the synonym of 'taciturn'",
+    "options": [
+     "Chatty",
+     "Reserved",
+     "Rude",
+     "Cheerful"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Taciturn = habitually silent, uncommunicative.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 6,
+  "date": "2026-11-11",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Kamala Das's autobiography is",
+    "options": [
+     "My Story",
+     "An Introduction",
+     "The Old Playhouse",
+     "Alphabet of Lust"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Published in 1976 (Ente Katha in Malayalam, 1973).",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Longinus lists how many sources of the sublime?",
+    "options": [
+     "Four",
+     "Three",
+     "Seven",
+     "Five"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Great thoughts, strong emotion, figures, noble diction, dignified composition.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "Dr. Johnson's Dictionary appeared in",
+    "options": [
+     "1709",
+     "1779",
+     "1755",
+     "1791"
+    ],
+    "correct_option_id": 2,
+    "explanation": "A Dictionary of the English Language, 1755; he also edited Shakespeare (1765).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Hardly had he arrived than it began to rain.",
+     "Hardly had he arrived when it began to rain.",
+     "Hardly he arrived when it began to rain.",
+     "Hardly he had arrived when it began to rain."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'Hardly/scarcely ... when' and 'No sooner ... than' take inversion with the past perfect.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He is junior from me by two years.",
+     "He is junior for me by two years.",
+     "He is junior to me by two years.",
+     "He is junior than me by two years."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Junior to', 'senior to', 'prior to', 'superior to', 'inferior to' take 'to'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Wordsworth's definition of poetry in the Preface includes the phrase",
+    "options": [
+     "A criticism of life",
+     "Recollected in tranquillity",
+     "The best words in the best order",
+     "Impersonal expression"
+    ],
+    "correct_option_id": 1,
+    "explanation": "'Spontaneous overflow of powerful feelings; it takes its origin from emotion recollected in tranquillity.'",
+    "type": "quiz",
+    "topic": "words",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "'My Grandmother's House' laments",
+    "options": [
+     "War",
+     "Poverty",
+     "The Partition",
+     "The loss of love"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'There is a house now far away where once / I received love.'",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Consider: 1) Petrarchan sonnet: octave + sestet. 2) Spenserian sonnet: ABAB BCBC CDCD EE. Which are correct?",
+    "options": [
+     "1 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2",
+     "2 only"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Both statements describe the forms correctly.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "A. C. Bradley's 'Shakespearean Tragedy' (1904) discusses",
+    "options": [
+     "Hamlet, Othello, King Lear, Macbeth",
+     "All histories",
+     "Comedies",
+     "Romeo and Juliet and Julius Caesar"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Bradley's lectures form the standard study of the four major tragedies.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Match: A Sethe, B Milkman Dead, C Pecola Breedlove with 1 Song of Solomon, 2 The Bluest Eye, 3 Beloved",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-2, B-3, C-1",
+     "A-3, B-1, C-2",
+     "A-3, B-2, C-1"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Beloved (1987), Song of Solomon (1977), The Bluest Eye (1970).",
+    "type": "quiz",
+    "topic": "morr",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 7,
+  "date": "2026-11-12",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the synonym of 'ameliorate'",
+    "options": [
+     "Destroy",
+     "Worsen",
+     "Ignore",
+     "Improve"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Ameliorate = make better, improve.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Fagin is a character in",
+    "options": [
+     "Hard Times",
+     "Great Expectations",
+     "Bleak House",
+     "Oliver Twist"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Fagin is the leader of a gang of boy thieves; Nancy is killed by Bill Sikes.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The idiom 'to turn a deaf ear' means",
+    "options": [
+     "To listen",
+     "To ignore",
+     "To hear well",
+     "To be deaf"
+    ],
+    "correct_option_id": 1,
+    "explanation": "To refuse to listen.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "'Euphues' (1578) was written by",
+    "options": [
+     "Francis Bacon",
+     "John Lyly",
+     "Edmund Spenser",
+     "Philip Sidney"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Lyly's style gave the word 'euphuism'.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "'Buzz', 'hiss' and 'bang' are examples of",
+    "options": [
+     "Alliteration",
+     "Metonymy",
+     "Onomatopoeia",
+     "Synecdoche"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Onomatopoeia: words imitating the sound they name.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Either he nor I am responsible.",
+     "Either he or I are responsible.",
+     "Either he or I am responsible.",
+     "Either he or I is responsible."
+    ],
+    "correct_option_id": 2,
+    "explanation": "The verb agrees with the nearer subject ('I' takes 'am').",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "The epic 'Aeneid' was written by",
+    "options": [
+     "Ovid",
+     "Homer",
+     "Virgil",
+     "Dante"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Virgil (70-19 BC) wrote the Roman national epic in twelve books.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "'The Waste Land' has how many parts?",
+    "options": [
+     "Three",
+     "Seven",
+     "Four",
+     "Five"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The Burial of the Dead; A Game of Chess; The Fire Sermon; Death by Water; What the Thunder Said.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Rearrange: P. made Q. had R. the Taj Mahal S. Shah Jahan",
+    "options": [
+     "SQPR",
+     "QPRS",
+     "RSPQ",
+     "PRQS"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'Shah Jahan had made the Taj Mahal' - S Q P R.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Match: A The Knight's Tale, B The Wife of Bath's Tale, C The Pardoner's Tale with 1 Teseida, 2 Sovereignty, 3 Radix malorum",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-1, B-3, C-2",
+     "A-2, B-1, C-3",
+     "A-3, B-2, C-1"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Boccaccio's Teseida; women desire sovereignty; 'the love of money is the root of evil'.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 8,
+  "date": "2026-11-13",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Rhyme that looks alike but sounds different (e.g. 'love-move') is",
+    "options": [
+     "Feminine rhyme",
+     "Eye rhyme",
+     "Internal rhyme",
+     "Masculine rhyme"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Eye rhyme is a rhyme for the eye, not the ear.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Aristotle said that the most important element of tragedy is",
+    "options": [
+     "Character",
+     "Plot",
+     "Spectacle",
+     "Diction"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Six elements: plot (mythos), character, thought, diction, melody and spectacle.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The correct chronological order of poets is",
+    "options": [
+     "Chaucer, Spenser, Milton, Wordsworth",
+     "Milton, Chaucer, Spenser, Wordsworth",
+     "Chaucer, Milton, Spenser, Wordsworth",
+     "Spenser, Chaucer, Wordsworth, Milton"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Chaucer (d. 1400), Spenser (1552-99), Milton (1608-74), Wordsworth (1770-1850).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "He said, 'I am ill.' Indirect speech:",
+    "options": [
+     "He said that I am ill.",
+     "He told that he had ill.",
+     "He said that he is ill.",
+     "He said that he was ill."
+    ],
+    "correct_option_id": 3,
+    "explanation": "Present simple changes to past simple.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Unless you are not working hard, you fail.",
+     "Unless you will work hard, you will fail.",
+     "Unless you do not work hard, you will fail.",
+     "Unless you work hard, you will fail."
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Unless' already carries a negative sense; do not add 'not'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Shelley's second wife was",
+    "options": [
+     "Jane Williams",
+     "Harriet Westbrook",
+     "Claire Clairmont",
+     "Mary Godwin"
+    ],
+    "correct_option_id": 3,
+    "explanation": "He eloped with Mary in 1814 and married her in 1816 after Harriet's death.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The master said to the servant, 'Go away.' Indirect:",
+    "options": [
+     "The master told the servant that go away.",
+     "The master said the servant to go.",
+     "The master ordered the servant to go away.",
+     "The master proposed the servant go away."
+    ],
+    "correct_option_id": 2,
+    "explanation": "An order is reported with 'ordered/commanded' + to-infinitive.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "The Petrarchan sonnet has the divisions",
+    "options": [
+     "Octave and sestet",
+     "Three quatrains and a couplet",
+     "Four tercets",
+     "Six couplets"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Octave rhymes ABBA ABBA; sestet rhymes CDECDE or CDCDCD.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'In Memoriam A.H.H.' was published in",
+    "options": [
+     "1842",
+     "1833",
+     "1850",
+     "1859"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It consists of a Prologue, 131 sections and an Epilogue, written 1833-50.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Frost said a poem 'begins in delight and ends in",
+    "options": [
+     "Wisdom",
+     "Pain",
+     "Sorrow",
+     "Silence"
+    ],
+    "correct_option_id": 0,
+    "explanation": "From 'The Figure a Poem Makes' (1939).",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 9,
+  "date": "2026-11-14",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'To err is human, to forgive divine.' The figure is",
+    "options": [
+     "Euphemism",
+     "Apostrophe",
+     "Antithesis",
+     "Simile"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Antithesis sets contrasting ideas in balanced phrases (Pope).",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the antonym of 'zenith'",
+    "options": [
+     "Crest",
+     "Summit",
+     "Peak",
+     "Nadir"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Zenith = highest point; nadir = lowest point.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "George Eliot's real name was",
+    "options": [
+     "Charlotte Bronte",
+     "Mary Ann Evans",
+     "Elizabeth Gaskell",
+     "Emily Bronte"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Mary Ann (Marian) Evans used a male pen-name to be taken seriously.",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Tales from Shakespeare (1807) was written by",
+    "options": [
+     "Charles and Mary Lamb",
+     "Leigh Hunt and Keats",
+     "Samuel Johnson and Boswell",
+     "William Hazlitt with Hunt"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Lambs retold twenty plays for young readers.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Match: A Imagism, B Pre-Raphaelite, C Lake School with 1 Ezra Pound, 2 D. G. Rossetti, 3 Southey",
+    "options": [
+     "A-2, B-1, C-3",
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-1, B-2, C-3"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Pound led Imagism; Rossetti the Pre-Raphaelite Brotherhood (1848); Southey with Wordsworth the Lake poets.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Hardy's epic-drama on the Napoleonic wars is",
+    "options": [
+     "Wessex Poems",
+     "The Dynasts",
+     "Moments of Vision",
+     "Satires of Circumstance"
+    ],
+    "correct_option_id": 1,
+    "explanation": "The Dynasts (1904-08) has three parts and nineteen acts with the Spirit of the Pities.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The idiom 'to cut the Gordian knot' means",
+    "options": [
+     "To start a sudden fight",
+     "To fail in a hard task",
+     "To solve a problem boldly",
+     "To tie a rope tightly"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Alexander cut the Gordian knot with his sword.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "'Objective correlative' was introduced by",
+    "options": [
+     "T. S. Eliot",
+     "Matthew Arnold",
+     "F. R. Leavis",
+     "I. A. Richards"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It appears in Eliot's essay 'Hamlet and His Problems' (1919).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Lamb worked as a clerk in the",
+    "options": [
+     "East India Company",
+     "Lloyd's",
+     "Customs House",
+     "Bank of England"
+    ],
+    "correct_option_id": 0,
+    "explanation": "He worked at India House for 33 years, retiring in 1825.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "He said, 'I have seen the film.' Indirect:",
+    "options": [
+     "He said that he saw the film.",
+     "He said that he had seen the film.",
+     "He said that he has seen the film.",
+     "He said that I had seen the film."
+    ],
+    "correct_option_id": 1,
+    "explanation": "Present perfect changes to past perfect.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 10,
+  "date": "2026-11-15",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'I sound my barbaric yawp over the roofs of the world' is from",
+    "options": [
+     "Passage to India",
+     "I Hear America Singing",
+     "Crossing Brooklyn Ferry",
+     "Song of Myself"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Last section of 'Song of Myself'.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "'She Stoops to Conquer' (1773) is by",
+    "options": [
+     "George Farquhar",
+     "Oliver Goldsmith",
+     "R. B. Sheridan",
+     "William Congreve"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Goldsmith's anti-sentimental comedy; Sheridan wrote The Rivals and The School for Scandal.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Matthew Arnold called Shelley a 'beautiful and ineffectual",
+    "options": [
+     "Dreamer",
+     "Angel",
+     "Prophet",
+     "Poet"
+    ],
+    "correct_option_id": 1,
+    "explanation": "From Arnold's essay on Shelley: 'beating in the void his luminous wings in vain'.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "The 'Big Three' of Indian English novel are Anand, Raja Rao and",
+    "options": [
+     "Arundhati Roy",
+     "Vikram Seth",
+     "R. K. Narayan",
+     "Salman Rushdie"
+    ],
+    "correct_option_id": 2,
+    "explanation": "They emerged in the 1930s.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "The epigraph of The Waste Land is from",
+    "options": [
+     "Dante's Inferno",
+     "Shakespeare's Hamlet",
+     "Petronius' Satyricon",
+     "The Bible"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It is about the Cumaean Sibyl: 'I want to die'.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "'Elegy Written in a Country Churchyard' (1751) is by",
+    "options": [
+     "William Collins",
+     "Robert Burns",
+     "Thomas Gray",
+     "Oliver Goldsmith"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Gray is a poet of the Age of Sensibility, a forerunner of Romanticism.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "One word for 'a speech made without preparation':",
+    "options": [
+     "Extempore",
+     "Oration",
+     "Monologue",
+     "Soliloquy"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Extempore = unprepared; soliloquy = talking to oneself.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Keats's concept of the 'Negative Capability' is applied to",
+    "options": [
+     "Milton",
+     "Shakespeare",
+     "Wordsworth",
+     "Pope"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Keats said Shakespeare 'possessed so enormously'.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The boys hostel's is new.",
+     "The boys's hostel is new.",
+     "The boy's hostel for many boys is new.",
+     "The boys' hostel is new."
+    ],
+    "correct_option_id": 3,
+    "explanation": "Plural nouns ending in -s take only an apostrophe: boys' hostel.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct sentence",
+    "options": [
+     "I have been to Delhi twice.",
+     "I have went to Delhi twice.",
+     "I have gone to Delhi twice.",
+     "I had been to Delhi twice before."
+    ],
+    "correct_option_id": 0,
+    "explanation": "'Have been to' means visited and returned; 'have gone to' means is still there.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 11,
+  "date": "2026-11-16",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "The Immortality Ode ends with",
+    "options": [
+     "Thoughts too deep for tears",
+     "Daffodils",
+     "A pagan creed",
+     "The child as father of the man"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'To me the meanest flower that blows can give / Thoughts that do often lie too deep for tears.'",
+    "type": "quiz",
+    "topic": "words",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Hemingway won the Nobel Prize in",
+    "options": [
+     "1936",
+     "1962",
+     "1954",
+     "1949"
+    ],
+    "correct_option_id": 2,
+    "explanation": "He had won the Pulitzer in 1953 for The Old Man and the Sea.",
+    "type": "quiz",
+    "topic": "hem",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "A deliberate understatement using a negative is",
+    "options": [
+     "Bathos",
+     "Irony",
+     "Litotes",
+     "Hyperbole"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Example: 'He is not a bad player' meaning 'he is good'.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Michael Henchard is the hero of",
+    "options": [
+     "The Woodlanders",
+     "The Mayor of Casterbridge",
+     "Jude the Obscure",
+     "Far from the Madding Crowd"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Henchard sells his wife at a fair in the opening chapter (1886).",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Change to a compound sentence: 'Though he is poor, he is honest.'",
+    "options": [
+     "He is poor so he is honest.",
+     "He is poor, because he is honest.",
+     "He is poor but honest.",
+     "He is honest if poor."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Though' is replaced by 'but' to form a compound sentence.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "The idiom 'the Achilles heel' means",
+    "options": [
+     "A foot injury",
+     "A brave heart",
+     "A strong point",
+     "A weak point"
+    ],
+    "correct_option_id": 3,
+    "explanation": "From Achilles' vulnerable heel in Greek myth.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 7,
+    "question": "Tennyson was educated at",
+    "options": [
+     "Trinity College, Cambridge",
+     "Eton",
+     "Balliol College, Oxford",
+     "Magdalen College, Oxford"
+    ],
+    "correct_option_id": 0,
+    "explanation": "At Cambridge he joined the Apostles and met Arthur Hallam.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "The 'condition of England' novel includes",
+    "options": [
+     "Pamela",
+     "Waverley",
+     "Emma",
+     "Hard Times"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Dickens's Hard Times (1854) and Gaskell's North and South treat industrial England.",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Mr Gradgrind believed in",
+    "options": [
+     "Religion",
+     "Pleasure",
+     "Fancy",
+     "Facts"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Now, what I want is Facts' - the opening of Hard Times; it attacks Utilitarianism.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Sonnet 116 says love is",
+    "options": [
+     "A fading flower",
+     "An ever-fixed mark",
+     "A hunter's prey",
+     "A summer's day"
+    ],
+    "correct_option_id": 1,
+    "explanation": "'It is an ever-fixed mark that looks on tempests and is never shaken.'",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 12,
+  "date": "2026-11-17",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Ezekiel's 'The Unfinished Man' was published in",
+    "options": [
+     "1965",
+     "1976",
+     "1960",
+     "1952"
+    ],
+    "correct_option_id": 2,
+    "explanation": "'The Third' appeared in 1959, 'The Unfinished Man' in 1960.",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "Victorian novelist who wrote 'Oliver Twist' is",
+    "options": [
+     "George Eliot",
+     "Thomas Hardy",
+     "W. M. Thackeray",
+     "Charles Dickens"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Dickens (1812-1870) wrote Oliver Twist (1838) and David Copperfield (1850).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "A revenge tragedy was first popularised by",
+    "options": [
+     "Thomas Kyd",
+     "Congreve",
+     "Dryden",
+     "Ben Jonson"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Spanish Tragedy (c. 1587) set the pattern for Hamlet and Webster's plays.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The Pindaric ode was imitated in English by",
+    "options": [
+     "William Blake",
+     "Abraham Cowley",
+     "Matthew Arnold",
+     "Alexander Pope"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Cowley introduced the irregular Pindaric ode; Gray's The Progress of Poesy follows the Pindaric form.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Match: A Objective correlative, B Touchstone method, C Willing suspension of disbelief with 1 Arnold, 2 Coleridge, 3 Eliot",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-3, B-2, C-1",
+     "A-2, B-3, C-1",
+     "A-3, B-1, C-2"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Eliot (1919), Arnold (1880), Coleridge (1817).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Change to the positive degree: 'Gold is more precious than iron.'",
+    "options": [
+     "Iron is more precious as gold.",
+     "Iron is as precious as gold.",
+     "Iron is not so precious as gold.",
+     "Gold is not as precious as iron."
+    ],
+    "correct_option_id": 2,
+    "explanation": "Positive degree: not so ... as.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Change to the passive: 'The teacher will give him a prize.'",
+    "options": [
+     "He will be given a prize by the teacher.",
+     "He is given a prize by the teacher.",
+     "He will give a prize by the teacher.",
+     "He would be given a prize by the teacher."
+    ],
+    "correct_option_id": 0,
+    "explanation": "Future passive: will be + past participle.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "The study of metre and versification is called",
+    "options": [
+     "Rhetoric",
+     "Prosody",
+     "Semantics",
+     "Syntax"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Scansion is the marking of metre in a line.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'Her cheeks are like roses.' The figure of speech is",
+    "options": [
+     "Metaphor",
+     "Personification",
+     "Hyperbole",
+     "Simile"
+    ],
+    "correct_option_id": 3,
+    "explanation": "A simile compares two things with 'like' or 'as'.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Rearrange: P. the poor Q. helps R. she S. always",
+    "options": [
+     "RSQP",
+     "SRQP",
+     "PRQS",
+     "RQSP"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'She always helps the poor' - R S Q P.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 13,
+  "date": "2026-11-18",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He is accustomed with getting up early.",
+     "He is accustomed to getting up early.",
+     "He is accustomed to get up early.",
+     "He is accustomed for getting up early."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'Accustomed to' takes a gerund.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "The source of the Knight's Tale is Boccaccio's",
+    "options": [
+     "Teseida",
+     "Decameron",
+     "Fiammetta",
+     "Filostrato"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Teseida; Troilus and Criseyde is based on Boccaccio's Il Filostrato.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The first generation of Romantic poets included",
+    "options": [
+     "Keats and Byron",
+     "Tennyson and Browning",
+     "Wordsworth and Coleridge",
+     "Byron and Shelley"
+    ],
+    "correct_option_id": 2,
+    "explanation": "The second generation: Byron, Shelley and Keats.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "M"
+   },
+   {
+    "q_no": 4,
+    "question": "Consider: 1) Elia is Lamb's pen-name. 2) Tales from Shakespeare was written with his sister Mary. Which are correct?",
+    "options": [
+     "Both 1 and 2",
+     "Neither 1 nor 2",
+     "2 only",
+     "1 only"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Tales from Shakespeare appeared in 1807.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "Arnold's 'Essays in Criticism' was published in",
+    "options": [
+     "1857",
+     "1869",
+     "1880",
+     "1865"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The first series (1865) includes 'The Function of Criticism at the Present Time'.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Rearrange: P. will come Q. if you R. I S. call",
+    "options": [
+     "RPQS",
+     "QSRP",
+     "PQRS",
+     "SRPQ"
+    ],
+    "correct_option_id": 1,
+    "explanation": "'If you call, I will come' - Q S R P.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "A long, elaborate comparison in epics is an",
+    "options": [
+     "Epic simile",
+     "Conceit",
+     "Oxymoron",
+     "Allegory"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Homeric or epic similes are used by Milton in Paradise Lost.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Whitman worked in the Civil War as a",
+    "options": [
+     "Soldier",
+     "Hospital volunteer nurse",
+     "Governor's aide",
+     "Journalist at the front"
+    ],
+    "correct_option_id": 1,
+    "explanation": "He visited wounded soldiers in Washington hospitals.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "M"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the antonym of 'victory'",
+    "options": [
+     "Conquest",
+     "Triumph",
+     "Defeat",
+     "Success"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Victory-defeat.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "He said, 'I can swim.' Indirect:",
+    "options": [
+     "He said that he can swim.",
+     "He said that he may swim.",
+     "He said that he would swim.",
+     "He said that he could swim."
+    ],
+    "correct_option_id": 3,
+    "explanation": "can becomes could; may becomes might; shall becomes should.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 14,
+  "date": "2026-11-19",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Matthew Arnold said poetry is",
+    "options": [
+     "The best words in the best order",
+     "An escape from emotion",
+     "A criticism of life",
+     "A spontaneous overflow of feeling"
+    ],
+    "correct_option_id": 2,
+    "explanation": "From 'The Study of Poetry' (1880).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Sethe is the heroine of",
+    "options": [
+     "Beloved",
+     "Paradise",
+     "Sula",
+     "Jazz"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Sethe, Denver, Paul D and the ghost of Beloved live at 124 Bluestone Road.",
+    "type": "quiz",
+    "topic": "morr",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the antonym of 'hostile'",
+    "options": [
+     "Bitter",
+     "Angry",
+     "Friendly",
+     "Cruel"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Hostile = unfriendly; antonym friendly or amicable.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Dryden's remark on Chaucer was 'Here is God's",
+    "options": [
+     "Mercy",
+     "Plenty",
+     "Grace",
+     "Glory"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Dryden in the Preface to Fables Ancient and Modern (1700).",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Kamala Das was born in",
+    "options": [
+     "Maharashtra",
+     "Kerala",
+     "Bengal",
+     "Tamil Nadu"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Born 31 March 1934 at Punnayurkulam, Thrissur, Kerala; died 31 May 2009.",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "In 'To Autumn' the season is personified as a",
+    "options": [
+     "Queen on a throne",
+     "Warrior on the field",
+     "Child at play",
+     "Reaper and a gleaner"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Autumn sits on a granary floor, sleeps on a half-reaped furrow, and keeps steady like a gleaner.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "'Not with a bang but a whimper' is from",
+    "options": [
+     "The Waste Land",
+     "Prufrock",
+     "The Hollow Men",
+     "Gerontion"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It ends 'The Hollow Men' (1925): 'This is the way the world ends'.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Match: A Willy Loman, B John Proctor, C Eddie Carbone with 1 The Crucible, 2 A View from the Bridge, 3 Death of a Salesman",
+    "options": [
+     "A-2, B-3, C-1",
+     "A-3, B-1, C-2",
+     "A-3, B-2, C-1",
+     "A-1, B-2, C-3"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Each is the tragic protagonist of a Miller play.",
+    "type": "quiz",
+    "topic": "miller",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He insisted on my going there.",
+     "He insisted for my going there.",
+     "He insisted on me to go there.",
+     "He insisted that I to go there."
+    ],
+    "correct_option_id": 0,
+    "explanation": "'Insist on' is followed by a gerund; a possessive before a gerund is preferred.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "'Ode to the West Wind' is written in",
+    "options": [
+     "Rhyme royal",
+     "Heroic couplets",
+     "Ballad stanza",
+     "Terza rima"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Five sections of terza rima, each ending with a couplet (ABA BCB CDC DED EE).",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 15,
+  "date": "2026-11-20",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Which of the following was a Cavalier poet?",
+    "options": [
+     "John Donne",
+     "George Herbert",
+     "Henry Vaughan",
+     "Richard Lovelace"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Cavalier poets: Lovelace, Suckling, Herrick, Carew.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Regional novels with a 'Wessex' setting are by",
+    "options": [
+     "Thomas Hardy",
+     "George Eliot",
+     "D. H. Lawrence",
+     "Charles Dickens"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Hardy's Wessex covers Dorset and nearby counties.",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Virginia Woolf called Middlemarch 'one of the few English novels written for",
+    "options": [
+     "Common readers",
+     "Young ladies",
+     "Grown-up people",
+     "Country squires"
+    ],
+    "correct_option_id": 2,
+    "explanation": "From Woolf's essay on George Eliot in The Common Reader.",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct sentence",
+    "options": [
+     "She suggested us to go for a walk.",
+     "She suggested going for a walk.",
+     "She suggested for going for a walk.",
+     "She suggested to go for a walk."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'Suggest' is followed by a gerund or a 'that' clause, never a to-infinitive.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Art of persuasive speaking and writing is",
+    "options": [
+     "Prosody",
+     "Phonetics",
+     "Rhetoric",
+     "Syntax"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Aristotle's Rhetoric names ethos, pathos and logos as modes of persuasion.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "According to Longinus, the sublime is the echo of",
+    "options": [
+     "A great nation",
+     "A noble family",
+     "The Muse",
+     "A great soul"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Sublimity is the echo of a great soul.'",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Flourescent",
+     "Fluorescent",
+     "Fluorecent",
+     "Florescent"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Fluorescent begins with 'fluor'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Hardy's first published novel was",
+    "options": [
+     "Desperate Remedies",
+     "Under the Greenwood Tree",
+     "Far from the Madding Crowd",
+     "Tess"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Desperate Remedies (1871); Under the Greenwood Tree (1872) followed.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the correct sentence",
+    "options": [
+     "It is high time we leave.",
+     "It is high time we are leaving.",
+     "It is high time we left.",
+     "It is high time we will leave."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'It is time/high time' takes the past tense for the present.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct sentence",
+    "options": [
+     "This is best of all the book.",
+     "This is the better of all the books.",
+     "This is the most best of all the books.",
+     "This is the best of all the books."
+    ],
+    "correct_option_id": 3,
+    "explanation": "Superlative takes 'the ... of all'; avoid double superlatives.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 16,
+  "date": "2026-11-21",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Nissim Ezekiel belonged to the community of",
+    "options": [
+     "Bene Israel",
+     "Armenian",
+     "Sikh",
+     "Parsi"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Bene Israel Jews of Maharashtra.",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Match: A Tintern Abbey, B Immortality Ode, C Michael with 1 Pastoral poem, 2 Platonic pre-existence, 3 Dorothy addressed",
+    "options": [
+     "A-2, B-3, C-1",
+     "A-1, B-2, C-3",
+     "A-3, B-1, C-2",
+     "A-3, B-2, C-1"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Tintern Abbey addresses Dorothy; the Ode uses Plato's idea; Michael is a pastoral.",
+    "type": "quiz",
+    "topic": "words",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "'Peter Piper picked a peck of pickled peppers.' The figure is",
+    "options": [
+     "Onomatopoeia",
+     "Assonance",
+     "Alliteration",
+     "Pun"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Repetition of the same initial consonant sound.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Consider: 1) The Restoration began in 1660. 2) The Romantic Age begins with Lyrical Ballads (1798). Which is/are correct?",
+    "options": [
+     "Neither 1 nor 2",
+     "Both 1 and 2",
+     "1 only",
+     "2 only"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Charles II returned in 1660; Lyrical Ballads marks the start of Romanticism.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "The title 'The Sound and the Fury' is from",
+    "options": [
+     "King Lear",
+     "Hamlet",
+     "Othello",
+     "Macbeth"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'A tale / Told by an idiot, full of sound and fury, / Signifying nothing.'",
+    "type": "quiz",
+    "topic": "faul",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "She said, 'I was reading.' Indirect:",
+    "options": [
+     "She said that she had been reading.",
+     "She said that she is reading.",
+     "She said that she has been reading.",
+     "She said that she was read."
+    ],
+    "correct_option_id": 0,
+    "explanation": "Past continuous changes to past perfect continuous.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the antonym of 'verbose'",
+    "options": [
+     "Talkative",
+     "Wordy",
+     "Concise",
+     "Lengthy"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Verbose = using too many words; antonym concise.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "Falstaff appears in",
+    "options": [
+     "Henry IV",
+     "Henry V",
+     "King John",
+     "Richard III"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Falstaff appears in both parts of Henry IV and in The Merry Wives of Windsor; his death is reported in Henry V.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "The first great English epic is",
+    "options": [
+     "Paradise Lost",
+     "The Faerie Queene",
+     "Canterbury Tales",
+     "Beowulf"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Beowulf (Old English, c. 8th-11th century) is the oldest English epic.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "'Ozymandias' is a",
+    "options": [
+     "Ballad",
+     "Sonnet",
+     "Ode",
+     "Epic"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Written in 1817-18; it reflects the fall of kings: 'Look on my works, ye Mighty, and despair!'",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 17,
+  "date": "2026-11-22",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Rearrange: P. books Q. my friend R. reads S. many",
+    "options": [
+     "SRPQ",
+     "RSPQ",
+     "PQRS",
+     "QRSP"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'My friend reads many books' - Q R S P.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Match: A Pastoral elegy, B Mock epic, C Dramatic monologue with 1 The Rape of the Lock, 2 Lycidas, 3 My Last Duchess",
+    "options": [
+     "A-2, B-1, C-3",
+     "A-2, B-3, C-1",
+     "A-1, B-2, C-3",
+     "A-3, B-1, C-2"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Lycidas (Milton); The Rape of the Lock (Pope); My Last Duchess (Browning).",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the antonym of 'humble'",
+    "options": [
+     "Polite",
+     "Modest",
+     "Meek",
+     "Arrogant"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Humble-arrogant/proud.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "'Good fences make good neighbors' is from",
+    "options": [
+     "Fire and Ice",
+     "The Road Not Taken",
+     "Mending Wall",
+     "Birches"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It is spoken by the neighbour in 'Mending Wall' (North of Boston, 1914).",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Eliot said, 'Poetry is not a turning loose of emotion, but an escape from",
+    "options": [
+     "Nature",
+     "Emotion",
+     "Language",
+     "Reason"
+    ],
+    "correct_option_id": 1,
+    "explanation": "From 'Tradition and the Individual Talent': the theory of impersonality.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Eliot's 'mythical method' was praised in his review of",
+    "options": [
+     "Ulysses",
+     "Mrs Dalloway",
+     "The Waste Land",
+     "Pamela"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'Ulysses, Order and Myth' (1923) praised Joyce's use of Homer.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The Old Man and the Sea was published in",
+    "options": [
+     "1929",
+     "1926",
+     "1952",
+     "1940"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It was first published in Life magazine in September 1952.",
+    "type": "quiz",
+    "topic": "hem",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Anand founded the art journal",
+    "options": [
+     "Quest",
+     "Marg",
+     "Encounter",
+     "Kalakshetra"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Marg began in 1946 and still covers Indian art.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Change to the comparative degree: 'No other boy is as tall as Ram.'",
+    "options": [
+     "Ram is the tallest of other boys.",
+     "Ram is taller than any other boy.",
+     "Ram is as tall as any boy.",
+     "Ram is tallest than other boys."
+    ],
+    "correct_option_id": 1,
+    "explanation": "A positive-degree negative sentence can be changed to the comparative form.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "The dash is used to",
+    "options": [
+     "Show a sudden break",
+     "Show possession",
+     "Join compound words",
+     "End a sentence"
+    ],
+    "correct_option_id": 0,
+    "explanation": "A dash marks an interruption or an added remark.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 18,
+  "date": "2026-11-23",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'The Shepheardes Calender' (1579) is by",
+    "options": [
+     "Philip Sidney",
+     "Edmund Spenser",
+     "Christopher Marlowe",
+     "John Donne"
+    ],
+    "correct_option_id": 1,
+    "explanation": "It has twelve eclogues, one for each month; it marked the birth of modern English poetry.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Rearrange: P. very Q. he R. was S. tired",
+    "options": [
+     "QRPS",
+     "SRQP",
+     "RSQP",
+     "PQRS"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'He was very tired' - Q R P S.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Bertolt Brecht is associated with",
+    "options": [
+     "Theatre of cruelty",
+     "Epic theatre",
+     "Masque",
+     "Closet drama"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Brecht's epic theatre uses the alienation (distancing) effect.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The 'Rival Poet' is mentioned in Sonnets",
+    "options": [
+     "1-17",
+     "153-154",
+     "78-86",
+     "127-152"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Sonnets 78-86 mention a rival poet who also writes in the Fair Youth's praise.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "Dorothea Brooke is the heroine of",
+    "options": [
+     "The Mill on the Floss",
+     "Middlemarch",
+     "Silas Marner",
+     "Daniel Deronda"
+    ],
+    "correct_option_id": 1,
+    "explanation": "She marries Casaubon, then Will Ladislaw.",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Aristotle's 'Poetics' mainly deals with",
+    "options": [
+     "Satire",
+     "Pastoral",
+     "Tragedy",
+     "Ode"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Aristotle defines tragedy as the imitation of a serious action with pity and fear.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The term 'stream of consciousness' in fiction was first used by",
+    "options": [
+     "William James",
+     "James Joyce",
+     "Dorothy Richardson",
+     "T. S. Eliot"
+    ],
+    "correct_option_id": 0,
+    "explanation": "James used it in The Principles of Psychology (1890); Joyce and Woolf used it in fiction.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "Choose the correct tense: 'Look! It ___.'",
+    "options": [
+     "rained",
+     "has been rained",
+     "rains",
+     "is raining"
+    ],
+    "correct_option_id": 3,
+    "explanation": "An action happening now takes the present continuous.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'He passed away' instead of 'He died' is",
+    "options": [
+     "Hyperbole",
+     "Irony",
+     "Antithesis",
+     "Euphemism"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Euphemism replaces a harsh word with a milder one.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "'The Miller's Tale' is a",
+    "options": [
+     "Sermon",
+     "Saint's life",
+     "Fabliau",
+     "Romance"
+    ],
+    "correct_option_id": 2,
+    "explanation": "A fabliau is a bawdy comic tale; the Reeve answers with another.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 19,
+  "date": "2026-11-24",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the correct sentence",
+    "options": [
+     "I gave him many advices.",
+     "I gave him some advices.",
+     "I gave him some advice.",
+     "I gave him an advice."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Advice' is uncountable: some advice, a piece of advice.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "The word 'elegy' originally meant",
+    "options": [
+     "A love song",
+     "A war song",
+     "A song of joy",
+     "A lament"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The Greek 'elegos' meant a mournful poem; today it laments the dead.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Rhyme of the last syllable only (e.g. 'day-say') is",
+    "options": [
+     "Eye rhyme",
+     "Feminine rhyme",
+     "Internal rhyme",
+     "Masculine rhyme"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Feminine rhyme has two syllables (e.g. 'turning-burning').",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The stream of consciousness technique is used in",
+    "options": [
+     "Tom Jones",
+     "Pamela",
+     "Oliver Twist",
+     "Mrs Dalloway"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Virginia Woolf's Mrs Dalloway (1925) records characters' flowing thoughts.",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Nissim Ezekiel's first book was",
+    "options": [
+     "Latter-Day Psalms",
+     "A Time to Change",
+     "Hymns in Darkness",
+     "The Unfinished Man"
+    ],
+    "correct_option_id": 1,
+    "explanation": "A Time to Change (1952) was followed by Sixty Poems (1953).",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "'Ode to a Nightingale' ends with the question",
+    "options": [
+     "Where are the songs of Spring?",
+     "Do I wake or sleep?",
+     "Was it a vision?",
+     "What leaf-fring'd legend haunts?"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Last line: 'Fled is that music:—Do I wake or sleep?'",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "One word for 'that which can be eaten':",
+    "options": [
+     "Audible",
+     "Eligible",
+     "Edible",
+     "Legible"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Edible = fit to eat; eligible = qualified; audible = can be heard.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Charles Lamb is famous as a",
+    "options": [
+     "Dramatist",
+     "Novelist",
+     "Essayist",
+     "Epic poet"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Lamb (1775-1834) wrote the Essays of Elia.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Angel Clare appears in",
+    "options": [
+     "Tess of the d'Urbervilles",
+     "Jude the Obscure",
+     "The Return of the Native",
+     "The Woodlanders"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Angel marries Tess but abandons her after her confession.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Match: A In Memoriam, B Maud, C Ulysses with 1 Dramatic monologue, 2 Monodrama, 3 Elegy",
+    "options": [
+     "A-3, B-2, C-1",
+     "A-3, B-1, C-2",
+     "A-1, B-2, C-3",
+     "A-2, B-3, C-1"
+    ],
+    "correct_option_id": 0,
+    "explanation": "In Memoriam is an elegy; Maud a monodrama; Ulysses a dramatic monologue.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 20,
+  "date": "2026-11-25",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'Little Dorrit' is set partly in the",
+    "options": [
+     "Fleet Prison",
+     "Newgate Prison",
+     "Bastille",
+     "Marshalsea Prison"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Dickens's father was imprisoned in the Marshalsea for debt in 1824.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The poor are always with us.",
+     "The poor is always with us.",
+     "The poors are always with us.",
+     "The poor are always with we."
+    ],
+    "correct_option_id": 0,
+    "explanation": "'The + adjective' denotes a class and takes a plural verb: the rich, the poor, the old.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "She asked, 'Are you coming?' Indirect:",
+    "options": [
+     "She asked if I was coming.",
+     "She asked whether was I coming.",
+     "She asked am I coming.",
+     "She asked that was I coming."
+    ],
+    "correct_option_id": 0,
+    "explanation": "A yes-no question takes 'if' or 'whether' with statement order.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 4,
+    "question": "Dr. Johnson's 'Lives of the Poets' was published in",
+    "options": [
+     "1765",
+     "1755",
+     "1779-81",
+     "1791"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Lives of the Most Eminent English Poets, 52 poets.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Millenium",
+     "Milennium",
+     "Milenium",
+     "Millennium"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Double l and double n: millennium.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "The Neo-Classical (Augustan) Age is also called the Age of",
+    "options": [
+     "Pope",
+     "Tennyson",
+     "Eliot",
+     "Dryden"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Age of Pope (1700-1745) and Age of Johnson (1745-1784).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the antonym of 'expand'",
+    "options": [
+     "Widen",
+     "Spread",
+     "Grow",
+     "Contract"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Expand-contract.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "The 'Hollow Men' epigraph 'Mistah Kurtz - he dead' is from",
+    "options": [
+     "Under Western Eyes",
+     "Nostromo",
+     "Heart of Darkness",
+     "Lord Jim"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Joseph Conrad's Heart of Darkness (1899).",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Frost read his poem 'The Gift Outright' at the inauguration of",
+    "options": [
+     "Dwight Eisenhower",
+     "John F. Kennedy",
+     "Harry Truman",
+     "Franklin Roosevelt"
+    ],
+    "correct_option_id": 1,
+    "explanation": "1961.",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Kamala Das's poem 'The Looking Glass' is addressed to",
+    "options": [
+     "God",
+     "Women",
+     "Her husband",
+     "Her mother"
+    ],
+    "correct_option_id": 1,
+    "explanation": "It tells a woman to give a man what he asks for, showing the body-love relationship.",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 21,
+  "date": "2026-11-26",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'Ode on a Grecian Urn' calls the urn a",
+    "options": [
+     "All of these",
+     "Sylvan historian",
+     "Foster-child of silence",
+     "Cold Pastoral"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Keats uses all three titles in the first and fifth stanzas.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Change to the simple sentence: 'He is so weak that he cannot walk.'",
+    "options": [
+     "He is weak enough to walk.",
+     "He is very weak, can't walk.",
+     "He is weak so to walk.",
+     "He is too weak to walk."
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Too ... to' shows a negative result in a simple sentence.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "'Frankenstein' (1818) was written by",
+    "options": [
+     "Ann Radcliffe",
+     "Jane Austen",
+     "Mary Shelley",
+     "Emily Bronte"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Mary Shelley, wife of P. B. Shelley, wrote it at Byron's villa in 1816.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct tense: 'The sun ___ in the east.'",
+    "options": [
+     "rises",
+     "is rising",
+     "rose",
+     "has risen"
+    ],
+    "correct_option_id": 0,
+    "explanation": "A universal truth is expressed in the simple present.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Each of the boys have done his work.",
+     "Each of the boys has done his work.",
+     "Each of the boy has done his work.",
+     "Each of the boys have done their work."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'Each of' takes a singular verb.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "'The pen is mightier than the sword.' The figure is",
+    "options": [
+     "Simile",
+     "Hyperbole",
+     "Metonymy",
+     "Synecdoche"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Metonymy uses a related thing for the idea: pen = writing; sword = force.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The 'tragic flaw' of Othello is generally taken to be",
+    "options": [
+     "Indecision and delay",
+     "Pride and ambition",
+     "Ambition and greed",
+     "Jealousy and credulity"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Othello is too trusting of Iago and easily moved to jealousy.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "'The Lotos-Eaters' is based on",
+    "options": [
+     "Homer's Odyssey",
+     "Virgil's Aeneid",
+     "Milton's Paradise Lost",
+     "Chaucer's Tales"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The sailors who eat lotos lose desire to return home.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Beloved is based on the story of",
+    "options": [
+     "Rosa Parks",
+     "Margaret Garner",
+     "Sojourner Truth",
+     "Harriet Tubman"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Garner escaped slavery in 1856 and killed her child to prevent recapture.",
+    "type": "quiz",
+    "topic": "morr",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "A play written to be read, not staged, is a",
+    "options": [
+     "Closet drama",
+     "Masque",
+     "Interlude",
+     "Farce"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Milton's Samson Agonistes and Shelley's Prometheus Unbound are closet dramas.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 22,
+  "date": "2026-11-27",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Leaves of Grass was first published in",
+    "options": [
+     "1855",
+     "1892",
+     "1865",
+     "1819"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The first edition had 12 poems; Whitman set some of the type himself.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "One verb governing two nouns in different senses is",
+    "options": [
+     "Hendiadys",
+     "Syllepsis",
+     "Zeugma",
+     "Oxymoron"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Zeugma: 'He lost his hat and his temper'.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the correct sentence",
+    "options": [
+     "A number of students is increasing.",
+     "The numbers of students is increasing.",
+     "The number of students are increasing.",
+     "The number of students is increasing."
+    ],
+    "correct_option_id": 3,
+    "explanation": "'The number of' takes a singular verb; 'a number of' takes a plural verb.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct homophone: 'The ___ is shining.'",
+    "options": [
+     "son",
+     "sum",
+     "soon",
+     "sun"
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Sun' is the star; 'son' is a male child.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "The Victorian Age began in",
+    "options": [
+     "1660",
+     "1901",
+     "1837",
+     "1798"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Queen Victoria reigned 1837-1901.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Aristotle used the term 'mimesis' to mean",
+    "options": [
+     "Sublimity",
+     "Imitation",
+     "Reversal",
+     "Purgation"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Poetry imitates actions of men; against Plato's view that poetry is a copy of a copy.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The Chorus is used extensively in",
+    "options": [
+     "Hamlet",
+     "Henry V",
+     "Richard II",
+     "Macbeth"
+    ],
+    "correct_option_id": 1,
+    "explanation": "The Chorus speaks the prologue, asking audiences to imagine on 'this unworthy scaffold' the 'vasty fields of France'.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "'Michael: A Pastoral Poem' was published in",
+    "options": [
+     "The Prelude",
+     "Lyrical Ballads (1800)",
+     "The Excursion",
+     "Poems in Two Volumes"
+    ],
+    "correct_option_id": 1,
+    "explanation": "It appeared in the second edition of Lyrical Ballads (1800).",
+    "type": "quiz",
+    "topic": "words",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Biff and Happy are the sons of",
+    "options": [
+     "Joe Keller",
+     "Eddie Carbone",
+     "Willy Loman",
+     "John Proctor"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Willy's wife is Linda; Charley is his neighbour.",
+    "type": "quiz",
+    "topic": "miller",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "'Astrophil and Stella' is a sonnet sequence by",
+    "options": [
+     "Philip Sidney",
+     "Shakespeare",
+     "Samuel Daniel",
+     "Edmund Spenser"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Sidney's 108 sonnets and 11 songs, published 1591.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 23,
+  "date": "2026-11-28",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Perseverance",
+     "Perseverence",
+     "Perseveranse",
+     "Persaverance"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Ends in -ance: perseverance.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Anand was influenced by",
+    "options": [
+     "Shakespeare and Keats",
+     "Gandhi and Marx",
+     "Plato and Aristotle",
+     "Tagore and Tolstoy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "He joined the Progressive Writers' Association (1936).",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "George Eliot's partner was",
+    "options": [
+     "Thomas Hardy",
+     "Herbert Spencer",
+     "John Cross",
+     "George Henry Lewes"
+    ],
+    "correct_option_id": 3,
+    "explanation": "She lived with Lewes from 1854 until his death in 1878; she married John Cross in 1880.",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "One word for 'to give up the throne':",
+    "options": [
+     "Retire",
+     "Resign",
+     "Abdicate",
+     "Dismiss"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Abdicate = give up the throne or high position formally.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "The Waste Land makes use of Jessie Weston's",
+    "options": [
+     "From Ritual to Romance",
+     "The Golden Bough",
+     "The Hero with a Thousand Faces",
+     "The Divine Comedy"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Weston's book on the Grail legend and the Fisher King; Frazer's The Golden Bough is the other source Eliot names.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The furnitures are expensive.",
+     "The furnitures is expensive.",
+     "The furniture are expensive.",
+     "The furniture is expensive."
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Furniture' is uncountable and singular; so are luggage, information, advice and baggage.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "The Rape of the Lock has how many cantos in its final version?",
+    "options": [
+     "Twelve",
+     "Three",
+     "Five",
+     "Seven"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Revised in 1714 from two to five cantos with the Sylphs added.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "How many tales did Chaucer complete of the plan?",
+    "options": [
+     "Thirty-one",
+     "Forty",
+     "One hundred twenty",
+     "About twenty-four"
+    ],
+    "correct_option_id": 3,
+    "explanation": "He planned about 120 (two each way for 30 pilgrims) but wrote about 24.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the synonym of 'obsolete'",
+    "options": [
+     "Modern",
+     "Outdated",
+     "Useful",
+     "Fresh"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Obsolete = no longer in use.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Arnold's idea that criticism should be impartial is called",
+    "options": [
+     "Objective correlative",
+     "Sublimity",
+     "Disinterestedness",
+     "Catharsis"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Arnold wanted critics to know 'the best that is known and thought in the world'.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 24,
+  "date": "2026-11-29",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "P. B. Shelley was born in",
+    "options": [
+     "1795",
+     "1788",
+     "1770",
+     "1792"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Born 4 August 1792 at Field Place, Sussex; drowned 8 July 1822.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the synonym of 'candid'",
+    "options": [
+     "Hidden",
+     "Shy",
+     "Rude",
+     "Frank"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Candid = honest and direct.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "A novel set in an imagined bad future is a",
+    "options": [
+     "Dystopian novel",
+     "Pastoral novel",
+     "Epistolary novel",
+     "Picaresque novel"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Orwell's Nineteen Eighty-Four (1949) and Huxley's Brave New World (1932).",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "'A Rose for Emily' is by",
+    "options": [
+     "Ernest Hemingway",
+     "John Steinbeck",
+     "William Faulkner",
+     "F. Scott Fitzgerald"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Published 1930; Miss Emily Grierson kills Homer Barron.",
+    "type": "quiz",
+    "topic": "faul",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Hardy's first volume of poems was",
+    "options": [
+     "Late Lyrics",
+     "Satires of Circumstance",
+     "Wessex Poems",
+     "Time's Laughingstocks"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Published in 1898 when Hardy was 58.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct sentence",
+    "options": [
+     "No sooner did she leave than had the phone rung.",
+     "No sooner had she left than the phone rang.",
+     "No sooner she had left than the phone rang.",
+     "No sooner had she left when the phone rang."
+    ],
+    "correct_option_id": 1,
+    "explanation": "'No sooner' is followed by 'than'; 'hardly' is followed by 'when'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "'Ask for me tomorrow and you shall find me a grave man.' The figure is",
+    "options": [
+     "Pun",
+     "Irony",
+     "Oxymoron",
+     "Metonymy"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Mercutio's dying joke in Romeo and Juliet plays on grave (serious/tomb).",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "Darwin's 'Origin of Species' (1859) deeply influenced the",
+    "options": [
+     "Victorian Age",
+     "Restoration Age",
+     "Elizabethan Age",
+     "Romantic Age"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It raised doubts about faith, reflected in Tennyson, Arnold and Hardy.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Repetition of a word at the beginning of successive clauses is",
+    "options": [
+     "Zeugma",
+     "Antithesis",
+     "Epistrophe",
+     "Anaphora"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Dickens's 'It was the best of times, it was the worst of times'.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "'Hard Times' is dedicated to",
+    "options": [
+     "John Ruskin",
+     "Thomas Carlyle",
+     "Charles Darwin",
+     "Mrs Gaskell"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Dickens dedicated Hard Times (1854) to Carlyle.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 25,
+  "date": "2026-11-30",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Lamb's sister who helped him write Tales from Shakespeare was",
+    "options": [
+     "Sarah Lamb",
+     "Mary Lamb",
+     "Elizabeth Lamb",
+     "Dorothy Lamb"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Mary wrote the comedies, Charles the tragedies; published 1807.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the spelling of the word meaning 'courage'",
+    "options": [
+     "Braverry",
+     "Bravary",
+     "Bravury",
+     "Bravery"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Bravery = brave + ery.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The pilgrims travel to the shrine of",
+    "options": [
+     "St Peter",
+     "Thomas Becket",
+     "St Paul",
+     "St Cuthbert"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Becket was murdered in Canterbury Cathedral in 1170.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The order of English sonnet writers is",
+    "options": [
+     "Wyatt, Spenser, Shakespeare, Sidney",
+     "Sidney, Wyatt, Shakespeare, Spenser",
+     "Wyatt, Sidney, Spenser, Shakespeare",
+     "Spenser, Wyatt, Sidney, Shakespeare"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Wyatt (1530s), Sidney (Astrophil, 1591), Spenser (Amoretti, 1595), Shakespeare (1609).",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the synonym of 'ubiquitous'",
+    "options": [
+     "Far away",
+     "Seldom seen",
+     "Easily hidden",
+     "Omnipresent"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Ubiquitous = found everywhere.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Coleridge distinguished between",
+    "options": [
+     "Prose and Verse",
+     "Fancy and Imagination",
+     "Poetry and Science",
+     "Wit and Humour"
+    ],
+    "correct_option_id": 1,
+    "explanation": "He called Fancy mechanical and Imagination organic (primary and secondary).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The committee has submitted its report.",
+     "The committee have submitted its reports.",
+     "The committee has submitted their report.",
+     "The committees has submitted its report."
+    ],
+    "correct_option_id": 0,
+    "explanation": "A collective noun acting as one unit takes a singular verb and 'its'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Rythm",
+     "Rhytm",
+     "Rhythm",
+     "Rhythem"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Rhythm has two h's.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Match: A O Captain! My Captain!, B Song of Myself, C Democratic Vistas with 1 Prose, 2 Lincoln elegy, 3 Leaves of Grass",
+    "options": [
+     "A-2, B-3, C-1",
+     "A-2, B-1, C-3",
+     "A-3, B-1, C-2",
+     "A-1, B-2, C-3"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Democratic Vistas is a prose essay of 1871.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "H"
+   },
+   {
+    "q_no": 10,
+    "question": "'O Death, where is thy sting?' is an example of",
+    "options": [
+     "Apostrophe",
+     "Euphemism",
+     "Antithesis",
+     "Metonymy"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Apostrophe addresses an absent person or abstract thing as if present.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 26,
+  "date": "2026-12-01",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Parlament",
+     "Parliment",
+     "Parlaiment",
+     "Parliament"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Parliament has 'lia' in the middle.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "'The Way of the World' was written by",
+    "options": [
+     "George Farquhar",
+     "George Etherege",
+     "William Congreve",
+     "William Wycherley"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Congreve's masterpiece (1700); Mirabell and Millamant are the lovers.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The idiom 'at sixes and sevens' means",
+    "options": [
+     "In agreement",
+     "In confusion",
+     "In a game",
+     "In a hurry"
+    ],
+    "correct_option_id": 1,
+    "explanation": "In a disorganised state.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Ezekiel edited",
+    "options": [
+     "The Hindu and Frontline",
+     "Quest and Poetry India",
+     "Encounter and Poetry",
+     "Marg and Illustrated Weekly"
+    ],
+    "correct_option_id": 1,
+    "explanation": "He also edited the Illustrated Weekly of India (1952-53).",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "The Age of Johnson is dated",
+    "options": [
+     "1660-1700",
+     "1798-1832",
+     "1745-1784",
+     "1700-1745"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Johnson died in 1784; Boswell, Goldsmith, Burke and Sheridan belong to this circle.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Hamlet's father was killed by",
+    "options": [
+     "Claudius",
+     "Polonius",
+     "Laertes",
+     "Fortinbras"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Claudius poured poison into the ear of King Hamlet and took the throne and Gertrude.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Frost's first book was",
+    "options": [
+     "A Boy's Will",
+     "Mountain Interval",
+     "West-Running Brook",
+     "North of Boston"
+    ],
+    "correct_option_id": 0,
+    "explanation": "A Boy's Will (1913), published in England.",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "The prefix 'mal-' in 'malnutrition' means",
+    "options": [
+     "Good",
+     "Half",
+     "Bad",
+     "Before"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Mal- = bad or badly (malfunction, malpractice).",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Faulkner's fictional county is",
+    "options": [
+     "Casterbridge",
+     "Yoknapatawpha",
+     "Wessex",
+     "Malgudi"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Jefferson is its seat; most of his major novels are set there.",
+    "type": "quiz",
+    "topic": "faul",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Schedual",
+     "Scedule",
+     "Sheduele",
+     "Schedule"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Schedule begins with 'sch'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 27,
+  "date": "2026-12-02",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Match: A Trochee, B Anapaest, C Dactyl with 1 Stressed-unstressed, 2 Two unstressed-stressed, 3 Stressed-two unstressed",
+    "options": [
+     "A-1, B-3, C-2",
+     "A-3, B-2, C-1",
+     "A-1, B-2, C-3",
+     "A-2, B-1, C-3"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Trochee (/u), anapaest (uu/), dactyl (/uu).",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "Change to the active: 'The letter was written by her.'",
+    "options": [
+     "She wrote the letter.",
+     "She has written the letter.",
+     "She was writing the letter.",
+     "She writes the letter."
+    ],
+    "correct_option_id": 0,
+    "explanation": "The agent becomes the subject; the tense is kept.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Idiosincrasy",
+     "Idiosyncrasy",
+     "Idiosyncracy",
+     "Idiosyncrassy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Idiosyncrasy: -crasy, not -cracy.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "'The Charge of the Light Brigade' commemorates the",
+    "options": [
+     "Battle of Waterloo",
+     "Battle of Hastings",
+     "Battle of Trafalgar",
+     "Battle of Balaclava"
+    ],
+    "correct_option_id": 3,
+    "explanation": "It refers to the Crimean War, 1854; 'Theirs not to reason why'.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "T. S. Eliot was born in",
+    "options": [
+     "London",
+     "Boston",
+     "St. Louis",
+     "New York"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Born 26 September 1888 in St Louis, Missouri; became a British citizen in 1927.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Kamala Das's poetry is described as",
+    "options": [
+     "Epic",
+     "Satirical",
+     "Confessional",
+     "Pastoral"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Her frank poems on female desire place her in the confessional tradition.",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "'The Rambler' was written by",
+    "options": [
+     "Oliver Goldsmith",
+     "Samuel Johnson",
+     "Joseph Addison",
+     "Richard Steele"
+    ],
+    "correct_option_id": 1,
+    "explanation": "The Rambler appeared 1750-52; The Spectator was by Addison and Steele.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "The Restoration Period began with the return of",
+    "options": [
+     "William III",
+     "Oliver Cromwell",
+     "James II",
+     "Charles II"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Charles II returned to the throne in 1660 after the Commonwealth.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Change the voice: 'Why was he punished?'",
+    "options": [
+     "Why did they punish him?",
+     "Why do they punish him?",
+     "Why had they punished him?",
+     "Why was they punishing him?"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Passive past 'was punished' becomes active 'did ... punish'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "The ode 'Alexander's Feast' was written by",
+    "options": [
+     "Alexander Pope",
+     "William Collins",
+     "Thomas Gray",
+     "John Dryden"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Dryden's 1697 ode for St Cecilia's Day.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 28,
+  "date": "2026-12-03",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'The Mask of Anarchy' was written in protest at the",
+    "options": [
+     "French Revolution",
+     "Peterloo Massacre",
+     "Corn Laws",
+     "Crimean War"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Written in 1819 after the Manchester massacre of August 1819.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "The hero of Untouchable is",
+    "options": [
+     "Bakha",
+     "Lalu",
+     "Gangu",
+     "Munoo"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Bakha is a sweeper boy and the novel covers a single day.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the synonym of 'loquacious'",
+    "options": [
+     "Cunning",
+     "Silent",
+     "Generous",
+     "Talkative"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Loquacious = fond of talking.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 4,
+    "question": "Chaucer died in",
+    "options": [
+     "1558",
+     "1485",
+     "1343",
+     "1400"
+    ],
+    "correct_option_id": 3,
+    "explanation": "He died in 1400 and was the first poet buried in Westminster Abbey (Poets' Corner).",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "The suffix '-cracy' means",
+    "options": [
+     "Rule",
+     "Cure",
+     "Study",
+     "Fear"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Democracy, autocracy, bureaucracy.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "The first Elia essay in the London Magazine was",
+    "options": [
+     "The South-Sea House",
+     "A Dissertation upon Roast Pig",
+     "Old China",
+     "Dream Children"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It was published in August 1820; Elia was an Italian clerk Lamb knew at the South Sea House.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Which is NOT a Metaphysical poet?",
+    "options": [
+     "Andrew Marvell",
+     "Richard Lovelace",
+     "George Herbert",
+     "John Donne"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Lovelace was a Cavalier poet (To Althea, from Prison).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "Keats's first long poem (1818, about 4,000 lines of couplets) is",
+    "options": [
+     "Lamia",
+     "Isabella",
+     "Hyperion",
+     "Endymion"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Endymion: A Poetic Romance, 4,000 lines in heroic couplets (1818).",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "H"
+   },
+   {
+    "q_no": 9,
+    "question": "Change to the superlative degree: 'Ram is taller than any other boy.'",
+    "options": [
+     "Ram is the most taller boy.",
+     "Ram is taller of all boys.",
+     "Ram is the tallest boy.",
+     "Ram is tall as other boys."
+    ],
+    "correct_option_id": 2,
+    "explanation": "The comparative with 'any other' becomes the superlative.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 10,
+    "question": "Dickens's early sketches were published under the pen-name",
+    "options": [
+     "Currer Bell",
+     "Elia",
+     "Boz",
+     "Ouida"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Sketches by Boz (1836) came from Dickens's pet-name for his brother.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 29,
+  "date": "2026-12-04",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "A foot of one stressed and one unstressed syllable is a",
+    "options": [
+     "Pyrrhic",
+     "Trochee",
+     "Iamb",
+     "Anapaest"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Trochee (/ u): 'TY-ger'.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "'April is the cruellest month' is the opening of",
+    "options": [
+     "Prufrock",
+     "The Waste Land",
+     "The Hollow Men",
+     "Four Quartets"
+    ],
+    "correct_option_id": 1,
+    "explanation": "The first line of 'The Burial of the Dead'.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He is senior to me.",
+     "He is senior than me.",
+     "He is senior from me.",
+     "He is senior of me."
+    ],
+    "correct_option_id": 0,
+    "explanation": "Senior, junior, superior, inferior, prefer take 'to', not 'than'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "The Italian poet of the sonnet is",
+    "options": [
+     "Boccaccio",
+     "Virgil",
+     "Petrarch",
+     "Dante"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Petrarch (1304-74) wrote the Canzoniere to Laura.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "'All hands on deck.' The figure of speech is",
+    "options": [
+     "Apostrophe",
+     "Synecdoche",
+     "Euphemism",
+     "Metonymy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Part stands for the whole: hands for sailors.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "'Tintern Abbey' is addressed to",
+    "options": [
+     "Mary Hutchinson",
+     "Annette",
+     "Dorothy",
+     "Coleridge"
+    ],
+    "correct_option_id": 2,
+    "explanation": "The poem's last section speaks directly to Dorothy: 'my dear, dear Friend'.",
+    "type": "quiz",
+    "topic": "words",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Match: A Silas Marner, B The Mill on the Floss, C Middlemarch with 1 Maggie Tulliver, 2 Eppie, 3 Dorothea Brooke",
+    "options": [
+     "A-3, B-1, C-2",
+     "A-2, B-3, C-1",
+     "A-1, B-2, C-3",
+     "A-2, B-1, C-3"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Eppie (Silas Marner), Maggie (Mill), Dorothea (Middlemarch).",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "T. S. Eliot's 'The Sacred Wood' was published in",
+    "options": [
+     "1920",
+     "1922",
+     "1919",
+     "1948"
+    ],
+    "correct_option_id": 0,
+    "explanation": "A collection of critical essays (1920), including 'Tradition and the Individual Talent'.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "In King Lear the subplot concerns",
+    "options": [
+     "Gloucester",
+     "Kent",
+     "Fortinbras",
+     "Polonius"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Gloucester's trust in his bastard son Edmund parallels Lear's trust in his daughters.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct tense: 'She ___ for two hours when he came.'",
+    "options": [
+     "is waiting",
+     "has been waiting",
+     "was waited",
+     "had been waiting"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Past perfect continuous: had been + verb-ing for duration before a past event.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 30,
+  "date": "2026-12-05",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "The prefix 'bene-' in 'benefit' means",
+    "options": [
+     "Bad",
+     "Many",
+     "Half",
+     "Good"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Bene- = good or well.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Robert Frost won the Pulitzer Prize how many times?",
+    "options": [
+     "One",
+     "Six",
+     "Four",
+     "Two"
+    ],
+    "correct_option_id": 2,
+    "explanation": "New Hampshire (1924), Collected Poems (1931), A Further Range (1937), A Witness Tree (1943).",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "'Look Back in Anger' (1956) is by",
+    "options": [
+     "Tom Stoppard",
+     "Samuel Beckett",
+     "Harold Pinter",
+     "John Osborne"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Osborne's play began the 'angry young men' and kitchen-sink drama.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Rearrange: P. in the garden Q. the children R. are S. playing",
+    "options": [
+     "PQRS",
+     "QRSP",
+     "RQSP",
+     "SQRP"
+    ],
+    "correct_option_id": 1,
+    "explanation": "'The children are playing in the garden' - Q R S P.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Arnold's 'Culture and Anarchy' appeared in",
+    "options": [
+     "1869",
+     "1865",
+     "1857",
+     "1880"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It divides English society into Barbarians (aristocracy), Philistines (middle class) and Populace.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "John Proctor is the hero of",
+    "options": [
+     "A View from the Bridge",
+     "The Crucible",
+     "All My Sons",
+     "Death of a Salesman"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Proctor refuses to sign a false confession and is hanged.",
+    "type": "quiz",
+    "topic": "miller",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The mark '?' is called",
+    "options": [
+     "Exclamation mark",
+     "Comma",
+     "Question mark",
+     "Colon"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Used at the end of a direct question.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "'Adonais' is an elegy on",
+    "options": [
+     "Keats",
+     "Wordsworth",
+     "Byron",
+     "Arnold"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Adonais (1821) is a pastoral elegy in Spenserian stanzas; it begins 'I weep for Adonais - he is dead!'",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Beloved (1987) won the Pulitzer Prize in",
+    "options": [
+     "1970",
+     "1988",
+     "1993",
+     "1977"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Morrison won the Pulitzer Prize for Fiction in 1988.",
+    "type": "quiz",
+    "topic": "morr",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "The idiom 'to hit the nail on the head' means",
+    "options": [
+     "To build a house with nails",
+     "To hurt oneself with a hammer",
+     "To say exactly the right thing",
+     "To make a loud noise at night"
+    ],
+    "correct_option_id": 2,
+    "explanation": "To be exactly right.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 31,
+  "date": "2026-12-06",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Hardy's fictional region is",
+    "options": [
+     "Lancashire",
+     "Cornwall",
+     "Wessex",
+     "Yorkshire"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Wessex covers Dorset and nearby counties.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "'Ulysses' (1922) is by",
+    "options": [
+     "James Joyce",
+     "D. H. Lawrence",
+     "T. S. Eliot",
+     "Virginia Woolf"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Joyce's novel is set in Dublin on 16 June 1904 (Bloomsday).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The prefix 'anti-' in 'antidote' means",
+    "options": [
+     "Before",
+     "With",
+     "Over",
+     "Against"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Anti- = against; pro- = for; ante- = before.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Coleridge defined poetry as",
+    "options": [
+     "Impersonal expression",
+     "The criticism of life",
+     "The best words in the best order",
+     "The record of the best moments"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Coleridge, Table Talk: 'Prose = words in their best order; poetry = the best words in the best order.'",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "A ballad composed by an individual poet is a",
+    "options": [
+     "Broadside ballad",
+     "Literary ballad",
+     "Street ballad",
+     "Folk ballad"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Examples: Coleridge's Ancient Mariner, Keats's La Belle Dame sans Merci.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "'Bitter-sweet' or 'deafening silence' is an example of",
+    "options": [
+     "Paradox",
+     "Pun",
+     "Antithesis",
+     "Oxymoron"
+    ],
+    "correct_option_id": 3,
+    "explanation": "An oxymoron joins contradictory terms in a single phrase.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the antonym of 'indolent'",
+    "options": [
+     "Careless",
+     "Industrious",
+     "Sleepy",
+     "Lazy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Indolent = lazy, avoiding work.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "Choose the correct sentence",
+    "options": [
+     "The scenery of Kashmir are beautiful.",
+     "The sceneries of Kashmir is beautiful.",
+     "The scenery of Kashmir is beautiful.",
+     "The sceneries of Kashmir are beautiful."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Scenery' is an uncountable noun and takes a singular verb.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 9,
+    "question": "'The Waste Land' was published in",
+    "options": [
+     "1922",
+     "1939",
+     "1948",
+     "1915"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It is dedicated to Ezra Pound, 'il miglior fabbro'.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "The running over of a line into the next without a pause is",
+    "options": [
+     "Caesura",
+     "Refrain",
+     "Catalexis",
+     "Enjambment"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Enjambed lines are 'run-on'; 'end-stopped' lines end with a pause.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 32,
+  "date": "2026-12-07",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Neither the manager nor the clerks were present.",
+     "Neither the manager or the clerks were present.",
+     "Neither the manager nor the clerks was present.",
+     "Neither of the manager nor the clerks are present."
+    ],
+    "correct_option_id": 0,
+    "explanation": "With 'neither ... nor', the verb agrees with the nearer subject (clerks).",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Consider: 1) Bradley's four tragedies include Macbeth. 2) Shakespearean Tragedy was published in 1904. Which are correct?",
+    "options": [
+     "2 only",
+     "Neither 1 nor 2",
+     "1 only",
+     "Both 1 and 2"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Hamlet, Othello, King Lear and Macbeth.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "The Caroline Age is named after",
+    "options": [
+     "Elizabeth I",
+     "Charles I",
+     "Charles II",
+     "James I"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Charles I reigned 1625-1649; the Cavalier and Metaphysical poets flourished.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Oliver Twist was published in",
+    "options": [
+     "1837-39",
+     "1850",
+     "1859",
+     "1865"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Oliver Twist exposes the workhouse and the criminal world: Fagin, Sikes, Nancy.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "'The Sun Also Rises' (1926) is about",
+    "options": [
+     "The Spanish Civil War",
+     "A fisherman",
+     "An ambulance driver",
+     "The lost generation"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Jake Barnes and Lady Brett Ashley in Paris and Pamplona.",
+    "type": "quiz",
+    "topic": "hem",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "Chaucer's masterpiece is",
+    "options": [
+     "The Faerie Queene",
+     "Paradise Lost",
+     "Troilus and Cressida",
+     "The Canterbury Tales"
+    ],
+    "correct_option_id": 3,
+    "explanation": "The Canterbury Tales (c. 1387-1400) is an unfinished frame story in verse and prose.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The prefix 'semi-' means",
+    "options": [
+     "Many",
+     "Half",
+     "All",
+     "Over"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Semicircle, semifinal: half.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "'Epipsychidion' (1821) is addressed to",
+    "options": [
+     "Emilia Viviani",
+     "Mary Shelley",
+     "Claire Clairmont",
+     "Harriet"
+    ],
+    "correct_option_id": 0,
+    "explanation": "A poem on ideal love for Teresa (Emilia) Viviani.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Match: A Pamela, B Waverley, C Frankenstein with 1 Epistolary, 2 Historical, 3 Gothic science fiction",
+    "options": [
+     "A-3, B-2, C-1",
+     "A-1, B-3, C-2",
+     "A-1, B-2, C-3",
+     "A-2, B-1, C-3"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Pamela (1740), Waverley (1814), Frankenstein (1818).",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "H"
+   },
+   {
+    "q_no": 10,
+    "question": "The comedy of manners is a type of",
+    "options": [
+     "Sentimental comedy",
+     "Greek comedy",
+     "Restoration comedy",
+     "Morality play"
+    ],
+    "correct_option_id": 2,
+    "explanation": "It mocks the manners of high society: Congreve, Wycherley, Etherege.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 33,
+  "date": "2026-12-08",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'To strive, to seek, to find, and not to yield' is from",
+    "options": [
+     "Ulysses",
+     "The Lotos-Eaters",
+     "Tithonus",
+     "Crossing the Bar"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The last line of Ulysses (1842), a dramatic monologue in blank verse.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the correct sentence",
+    "options": [
+     "I look forward in meeting you.",
+     "I look forward to meet you.",
+     "I look forward to meeting you.",
+     "I look forward for meeting you."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Look forward to' is followed by a gerund (here 'to' is a preposition).",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "A sonnet has how many lines?",
+    "options": [
+     "Ten",
+     "Fourteen",
+     "Twelve",
+     "Sixteen"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Petrarchan: octave + sestet; Shakespearean: three quatrains + couplet.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "'The Eve of St Agnes' is set on the eve of",
+    "options": [
+     "1 May",
+     "14 February",
+     "20 January",
+     "31 October"
+    ],
+    "correct_option_id": 2,
+    "explanation": "St Agnes' Eve is 20 January (feast on 21 January); maidens were said to dream of future husbands.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "'The wind whispered through the trees.' The figure is",
+    "options": [
+     "Personification",
+     "Hyperbole (exaggeration)",
+     "Metonymy (association)",
+     "Synecdoche (the part)"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Giving human qualities to a non-human thing is personification.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Silas Marner lives in the village of",
+    "options": [
+     "Hayslope",
+     "Raveloe",
+     "St Ogg's",
+     "Middlemarch"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Silas, a weaver, adopts Eppie (1861).",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "The idiom 'by hook or by crook' means",
+    "options": [
+     "By force",
+     "By luck",
+     "By trick only",
+     "By any means"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Using any method, fair or foul.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Mulk Raj Anand's first novel was",
+    "options": [
+     "The Village",
+     "Untouchable",
+     "Coolie",
+     "Two Leaves and a Bud"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Untouchable (1935) was published with a foreword by E. M. Forster.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Lamb's pen-name was",
+    "options": [
+     "Boz",
+     "Saki",
+     "Ouida",
+     "Elia"
+    ],
+    "correct_option_id": 3,
+    "explanation": "He wrote the Elia essays for the London Magazine from 1820.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Kamala Das's first volume of poetry was",
+    "options": [
+     "Summer in Calcutta",
+     "The Descendants",
+     "Only the Soul Knows How to Sing",
+     "The Old Playhouse"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Published in 1965; The Descendants followed in 1967.",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 34,
+  "date": "2026-12-09",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "He said to her, 'Do not go there.' Indirect:",
+    "options": [
+     "He said her not to go.",
+     "He suggested her not to go.",
+     "He told her do not go there.",
+     "He forbade her to go there."
+    ],
+    "correct_option_id": 3,
+    "explanation": "A prohibition is reported with 'forbade' or 'told ... not to'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "'The Rape of the Lock' is by",
+    "options": [
+     "John Dryden",
+     "Alexander Pope",
+     "Jonathan Swift",
+     "Thomas Gray"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Pope's mock epic (1712; revised 1714) in heroic couplets.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Dr. Johnson coined the term 'Metaphysical' for",
+    "options": [
+     "Donne and his school",
+     "The Romantics",
+     "Milton",
+     "Pope and his school"
+    ],
+    "correct_option_id": 0,
+    "explanation": "In the Life of Cowley, Johnson said their wit was 'heterogeneous ideas yoked by violence together'.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 4,
+    "question": "Gabriel Oak and Bathsheba Everdene appear in",
+    "options": [
+     "Two on a Tower",
+     "Far from the Madding Crowd",
+     "The Woodlanders",
+     "The Mayor of Casterbridge"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Published in 1874; Troy and Boldwood are her other suitors.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "The author of 'Enterprise', a poem on a pilgrimage, is",
+    "options": [
+     "Kamala Das",
+     "Dom Moraes",
+     "A. K. Ramanujan",
+     "Nissim Ezekiel"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Ezekiel's 'Enterprise' shows a group on a pilgrimage who lose purpose.",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "One word for 'fear of strangers':",
+    "options": [
+     "Xenophobia",
+     "Claustrophobia",
+     "Hydrophobia",
+     "Agoraphobia"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Xeno = foreigner/stranger; claustrophobia = closed places.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "'Absalom and Achitophel' (1681) is by",
+    "options": [
+     "Alexander Pope",
+     "Jonathan Swift",
+     "John Dryden",
+     "Samuel Johnson"
+    ],
+    "correct_option_id": 2,
+    "explanation": "A political satire in heroic couplets about the Exclusion Crisis.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Shakespeare's Sonnet 18 begins",
+    "options": [
+     "Let me not to the marriage of true minds",
+     "Shall I compare thee to a summer's day?",
+     "That time of year thou mayst in me behold",
+     "My mistress' eyes are nothing like the sun"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Sonnet 116 begins 'Let me not'; Sonnet 130: 'My mistress' eyes'; Sonnet 73: 'That time of year'.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the correct sentence",
+    "options": [
+     "She has worked here since 2018 years.",
+     "She was working here since 2018.",
+     "She has been working here since 2018.",
+     "She is working here since 2018."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Since + point of time' takes the present perfect (continuous): has been working.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Scarcely had the train stopped than the passengers got down.",
+     "Scarcely did the train stop when the passengers got down.",
+     "Scarcely had the train stopped when the passengers got down.",
+     "Scarcely the train had stopped when the passengers got down."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Scarcely/hardly had + subject + past participle ... when ...'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 35,
+  "date": "2026-12-10",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "Miller's first Broadway success was",
+    "options": [
+     "The Crucible",
+     "The Price",
+     "All My Sons",
+     "Death of a Salesman"
+    ],
+    "correct_option_id": 2,
+    "explanation": "All My Sons (1947) won the New York Drama Critics' Circle Award.",
+    "type": "quiz",
+    "topic": "miller",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "Chaucer's long poem on the Trojan lovers is",
+    "options": [
+     "The Parliament of Fowls",
+     "Troilus and Criseyde",
+     "The House of Fame",
+     "The Legend of Good Women"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Written c. 1385 in rhyme royal and based on Il Filostrato.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "Whitman's poetry is written in",
+    "options": [
+     "Heroic couplets",
+     "Blank verse",
+     "Free verse",
+     "Terza rima"
+    ],
+    "correct_option_id": 2,
+    "explanation": "His long, rhythmic lines draw on the Bible and oratory.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Coleridge called Wordsworth's genius the gift of",
+    "options": [
+     "Imagination",
+     "Fancy rather than reason",
+     "Wit and epigram",
+     "Humour and satire"
+    ],
+    "correct_option_id": 0,
+    "explanation": "In Biographia Literaria he praised Wordsworth's 'imaginative power' while criticising certain theories.",
+    "type": "quiz",
+    "topic": "words",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Coleridge's critical work is",
+    "options": [
+     "Essay on Man",
+     "Culture and Anarchy",
+     "Biographia Literaria",
+     "Lyrical Ballads"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Published 1817; it includes Fancy and Imagination (Chapter XIII).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 6,
+    "question": "The collection 'Reliques of Ancient English Poetry' (1765) was compiled by",
+    "options": [
+     "Walter Scott",
+     "William Blake",
+     "Samuel Johnson",
+     "Thomas Percy"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Percy's Reliques revived interest in the ballad.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Toni Morrison's first novel was",
+    "options": [
+     "Beloved",
+     "The Bluest Eye",
+     "Sula",
+     "Song of Solomon"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Published 1970; Pecola Breedlove wishes for blue eyes.",
+    "type": "quiz",
+    "topic": "morr",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "One word for 'a person who can use both hands equally well':",
+    "options": [
+     "Ambivalent",
+     "Ambulant",
+     "Amphibian",
+     "Ambidextrous"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Ambidextrous; ambivalent = having mixed feelings; ambulant = able to walk.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 9,
+    "question": "The pause within a line of verse is called",
+    "options": [
+     "Catalexis",
+     "Enjambment",
+     "Elision",
+     "Caesura"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Caesura (a mid-line pause); enjambment runs a line over to the next.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "One word for 'a person who is present everywhere':",
+    "options": [
+     "Omnipresent",
+     "Omniscient",
+     "Ubiquity",
+     "Omnipotent"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Omnipresent = present everywhere.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 36,
+  "date": "2026-12-11",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "One word for 'a fear of closed places':",
+    "options": [
+     "Hydrophobia",
+     "Claustrophobia",
+     "Agoraphobia",
+     "Acrophobia"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Claustrophobia: closed spaces; agoraphobia: open spaces; acrophobia: heights; hydrophobia: water.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "'A Midsummer Night's Dream' is set in",
+    "options": [
+     "Venice",
+     "Athens",
+     "Rome",
+     "Verona"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Athens and a nearby wood; Theseus and Hippolyta are the royal pair.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "'Songs of Innocence' (1789) is by",
+    "options": [
+     "Robert Burns",
+     "William Wordsworth",
+     "William Blake",
+     "William Cowper"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Blake combined Songs of Innocence and Experience in 1794.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Choose the correct sentence",
+    "options": [
+     "She is the more intelligent of the two.",
+     "She is the intelligentest of the two.",
+     "She is more intelligent of the two.",
+     "She is the most intelligent of the two."
+    ],
+    "correct_option_id": 0,
+    "explanation": "Comparison of two items takes the comparative with 'the ... of the two'.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 5,
+    "question": "Match: A Summer in Calcutta, B The Descendants, C My Story with 1 1967, 2 1976, 3 1965",
+    "options": [
+     "A-1, B-2, C-3",
+     "A-2, B-3, C-1",
+     "A-3, B-2, C-1",
+     "A-3, B-1, C-2"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Summer in Calcutta (1965), The Descendants (1967), My Story (1976).",
+    "type": "quiz",
+    "topic": "kdas",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Calandar",
+     "Calander",
+     "Calender",
+     "Calendar"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Calendar ends in -dar.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Which term is NOT associated with T. S. Eliot?",
+    "options": [
+     "Negative capability",
+     "Objective correlative",
+     "Dissociation of sensibility",
+     "Impersonality"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Negative capability is Keats's term.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "M"
+   },
+   {
+    "q_no": 8,
+    "question": "'Shall I compare thee to a summer's day?' is written in",
+    "options": [
+     "Trochaic tetrameter",
+     "Anapaestic trimeter",
+     "Dactylic hexameter",
+     "Iambic pentameter"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Ten syllables with five iambic feet.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "M"
+   },
+   {
+    "q_no": 9,
+    "question": "Choose the correct word: 'He ___ his parents.'",
+    "options": [
+     "resemble",
+     "resembles with",
+     "resembles",
+     "resembles to"
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Resemble' is transitive and takes no preposition.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "The idiom 'to eat humble pie' means",
+    "options": [
+     "To apologise humbly",
+     "To cook a pie well",
+     "To eat food cheaply",
+     "To be rich and humble"
+    ],
+    "correct_option_id": 0,
+    "explanation": "To admit one's mistake.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 37,
+  "date": "2026-12-12",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'Ode to the West Wind' begins 'O wild West Wind...' using",
+    "options": [
+     "Simile",
+     "Apostrophe",
+     "Synecdoche",
+     "Metonymy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Shelley addresses the wind directly; it is also a case of personification.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "Which of the following is an elegy?",
+    "options": [
+     "In Memoriam",
+     "Paradise Lost",
+     "The Rape of the Lock",
+     "The Canterbury Tales"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Tennyson's In Memoriam A. H. H. (1850) mourns Arthur Hallam.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "The Age of Reason is another name for the",
+    "options": [
+     "Romantic Age",
+     "Elizabethan Age",
+     "Neo-Classical Age",
+     "Victorian Age"
+    ],
+    "correct_option_id": 2,
+    "explanation": "The period valued reason, order, decorum and the classical authors.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "One word for 'a government by the people':",
+    "options": [
+     "Autocracy",
+     "Democracy",
+     "Theocracy",
+     "Oligarchy"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Democracy; autocracy = one ruler; theocracy = rule of priests.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Consider: 1) Everyman is a morality play. 2) Look Back in Anger is by Samuel Beckett. Which is/are correct?",
+    "options": [
+     "Neither 1 nor 2",
+     "2 only",
+     "1 only",
+     "Both 1 and 2"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Look Back in Anger (1956) is by John Osborne.",
+    "type": "quiz",
+    "topic": "drama",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Miscellaneous",
+     "Miscellenous",
+     "Miscelaneous",
+     "Miscellanious"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Double l: miscellaneous.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 7,
+    "question": "Consider: 1) The Waste Land is dedicated to Ezra Pound. 2) Eliot won the Nobel in 1948. Which are correct?",
+    "options": [
+     "Both 1 and 2",
+     "Neither 1 nor 2",
+     "1 only",
+     "2 only"
+    ],
+    "correct_option_id": 0,
+    "explanation": "'For Ezra Pound, il miglior fabbro'.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "'The Patriot' is a poem by",
+    "options": [
+     "Toru Dutt",
+     "Nissim Ezekiel",
+     "Kamala Das",
+     "Sarojini Naidu"
+    ],
+    "correct_option_id": 1,
+    "explanation": "It is written in Indian English and has an ironic speaker.",
+    "type": "quiz",
+    "topic": "nez",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'Grace under pressure' defines the",
+    "options": [
+     "Morrison hero",
+     "Fitzgerald hero",
+     "Faulkner hero",
+     "Hemingway hero"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Hemingway described his code hero this way (1929).",
+    "type": "quiz",
+    "topic": "hem",
+    "level": "H"
+   },
+   {
+    "q_no": 10,
+    "question": "Choose the correct spelling",
+    "options": [
+     "Garantee",
+     "Gaurantee",
+     "Guarentee",
+     "Guarantee"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Guarantee has 'gua' at the start.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 38,
+  "date": "2026-12-13",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "'A Dissertation upon Roast Pig' is a",
+    "options": [
+     "Humorous essay",
+     "Short story",
+     "Poem",
+     "Play"
+    ],
+    "correct_option_id": 0,
+    "explanation": "It describes how Bo-bo's cottage burnt and the discovery of roast pig, from a supposed Chinese manuscript.",
+    "type": "quiz",
+    "topic": "lamb",
+    "level": "E"
+   },
+   {
+    "q_no": 2,
+    "question": "The 'Calamus' poems celebrate",
+    "options": [
+     "War",
+     "Maternal love",
+     "Nature",
+     "Male comradeship"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Calamus is a section of Leaves of Grass on 'manly love' and 'adhesiveness'.",
+    "type": "quiz",
+    "topic": "whit",
+    "level": "H"
+   },
+   {
+    "q_no": 3,
+    "question": "The idiom 'a bolt from the blue' means",
+    "options": [
+     "A delayed event",
+     "A thunder storm",
+     "A sudden surprise",
+     "A lucky chance"
+    ],
+    "correct_option_id": 2,
+    "explanation": "An unexpected event.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Shelley was drowned in the",
+    "options": [
+     "Lake Geneva",
+     "River Thames",
+     "English Channel",
+     "Gulf of Spezia"
+    ],
+    "correct_option_id": 3,
+    "explanation": "His boat sank off Viareggio; his friends, incl. Trelawny, cremated his body on the beach.",
+    "type": "quiz",
+    "topic": "shelley",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "Choose the correct sentence",
+    "options": [
+     "Finishing the work, it was time to go home.",
+     "Having finished the work, he went home.",
+     "Having finished the work, the day ended.",
+     "Having finished the work, the lights were turned off."
+    ],
+    "correct_option_id": 1,
+    "explanation": "A participle must refer to the subject; others have a dangling participle.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "Choose the correct sentence",
+    "options": [
+     "I would rather to stay at home.",
+     "I would rather stayed at home.",
+     "I would rather stay at home.",
+     "I would rather staying at home."
+    ],
+    "correct_option_id": 2,
+    "explanation": "'Would rather' is followed by a bare infinitive.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Munoo is the hero of",
+    "options": [
+     "Coolie",
+     "Untouchable",
+     "Two Leaves and a Bud",
+     "The Village"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Coolie (1936) follows a hill boy's wretched journey to Bombay and Shimla.",
+    "type": "quiz",
+    "topic": "mra",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Dr. Johnson's only novel is",
+    "options": [
+     "Pamela",
+     "Rasselas",
+     "Joseph Andrews",
+     "Tom Jones"
+    ],
+    "correct_option_id": 1,
+    "explanation": "The History of Rasselas, Prince of Abissinia (1759).",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "'The Road Not Taken' is from",
+    "options": [
+     "New Hampshire",
+     "Mountain Interval",
+     "A Boy's Will",
+     "North of Boston"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Published 1916; the speaker took 'the one less traveled by'.",
+    "type": "quiz",
+    "topic": "frost",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Aristotle's three modes of persuasion are",
+    "options": [
+     "Ode, elegy, epic",
+     "Mimesis, catharsis, hamartia",
+     "Ethos, pathos, logos",
+     "Tragedy, comedy, satire"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Ethos = character; pathos = emotion; logos = logic.",
+    "type": "quiz",
+    "topic": "prosody",
+    "level": "M"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 39,
+  "date": "2026-12-14",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "One word for 'one who is indifferent to pleasure and pain':",
+    "options": [
+     "Stoic",
+     "Epicure",
+     "Sceptic",
+     "Cynic"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Stoic is unmoved by passion; an epicure loves pleasure; a cynic is distrustful.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 2,
+    "question": "An epistolary novel is told through",
+    "options": [
+     "Dreams",
+     "Dramatic dialogues",
+     "Diaries only",
+     "Letters"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Richardson's Pamela and Clarissa; Austen's Lady Susan.",
+    "type": "quiz",
+    "topic": "novel",
+    "level": "E"
+   },
+   {
+    "q_no": 3,
+    "question": "Tennyson became Poet Laureate in",
+    "options": [
+     "1809",
+     "1892",
+     "1850",
+     "1837"
+    ],
+    "correct_option_id": 2,
+    "explanation": "He succeeded Wordsworth in 1850 and held the post until 1892.",
+    "type": "quiz",
+    "topic": "tenny",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "In Hamlet, the play within the play is",
+    "options": [
+     "The Mousetrap",
+     "Pyramus and Thisbe",
+     "The Spanish Tragedy",
+     "The Murder of Gonzago"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Hamlet calls the play 'The Mousetrap'; the players perform 'The Murder of Gonzago'.",
+    "type": "quiz",
+    "topic": "shak",
+    "level": "E"
+   },
+   {
+    "q_no": 5,
+    "question": "The University Wits of the Renaissance included",
+    "options": [
+     "Pope and Swift",
+     "Keats and Shelley",
+     "Dryden and Congreve",
+     "Marlowe and Greene"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Marlowe, Greene, Nashe, Lyly, Peele, Lodge and Kyd are the University Wits.",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   },
+   {
+    "q_no": 6,
+    "question": "Change to the passive: 'People say that he is honest.'",
+    "options": [
+     "He was said to be honest.",
+     "He is said to be honest.",
+     "He said to be honest.",
+     "It is said he to be honest."
+    ],
+    "correct_option_id": 1,
+    "explanation": "Impersonal passive: He is said to be ...",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "'The world is a stage.' The figure of speech is",
+    "options": [
+     "Pun",
+     "Simile",
+     "Hyperbole",
+     "Metaphor"
+    ],
+    "correct_option_id": 3,
+    "explanation": "A metaphor equates two things without 'like' or 'as'.",
+    "type": "quiz",
+    "topic": "fig",
+    "level": "E"
+   },
+   {
+    "q_no": 8,
+    "question": "Joe Christmas is the central character of",
+    "options": [
+     "As I Lay Dying",
+     "Light in August",
+     "Sanctuary",
+     "Absalom, Absalom!"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Light in August (1932), alongside Lena Grove and Gail Hightower.",
+    "type": "quiz",
+    "topic": "faul",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "The blind prophet in The Waste Land is",
+    "options": [
+     "Oedipus",
+     "Philomel",
+     "Tiresias",
+     "Ulysses"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Eliot's note says Tiresias unites all the characters.",
+    "type": "quiz",
+    "topic": "tse",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "The Restoration comedy of manners is represented by",
+    "options": [
+     "Marlowe",
+     "Jonson",
+     "Congreve",
+     "Shakespeare"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Congreve, Wycherley, Etherege and Farquhar; The Way of the World (1700).",
+    "type": "quiz",
+    "topic": "periods",
+    "level": "E"
+   }
+  ]
+ },
+ {
+  "exam": "UP PGT English",
+  "day": 40,
+  "date": "2026-12-15",
+  "time_ist": "20:00",
+  "polls": [
+   {
+    "q_no": 1,
+    "question": "The three types of ode are",
+    "options": [
+     "Pindaric, Horatian, Irregular",
+     "Iambic, trochaic, dactylic",
+     "Petrarchan, Spenserian, Miltonic",
+     "Epic, lyric, dramatic"
+    ],
+    "correct_option_id": 0,
+    "explanation": "The Pindaric (strophe, antistrophe, epode), the Horatian (regular stanzas), the irregular (Cowleyan) ode.",
+    "type": "quiz",
+    "topic": "stanza",
+    "level": "M"
+   },
+   {
+    "q_no": 2,
+    "question": "Choose the correct sentence",
+    "options": [
+     "He denied for taking the money.",
+     "He denied that to take the money.",
+     "He denied to have taken the money.",
+     "He denied having taken the money."
+    ],
+    "correct_option_id": 3,
+    "explanation": "'Deny' is followed by a gerund.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 3,
+    "question": "The phrase 'willing suspension of disbelief' belongs to",
+    "options": [
+     "Eliot",
+     "Coleridge",
+     "Arnold",
+     "Wordsworth"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Biographia Literaria, Chapter XIV, on supernatural characters in poetry.",
+    "type": "quiz",
+    "topic": "critics",
+    "level": "E"
+   },
+   {
+    "q_no": 4,
+    "question": "Keats's disease was",
+    "options": [
+     "Malaria from the marsh",
+     "Cholera of the lungs",
+     "Tuberculosis",
+     "Typhoid of the blood"
+    ],
+    "correct_option_id": 2,
+    "explanation": "He nursed his brother Tom, who died in 1818, and showed symptoms himself.",
+    "type": "quiz",
+    "topic": "keats",
+    "level": "H"
+   },
+   {
+    "q_no": 5,
+    "question": "Matthew Arnold said Chaucer lacked",
+    "options": [
+     "Narrative skill",
+     "Realism",
+     "Humour",
+     "High seriousness"
+    ],
+    "correct_option_id": 3,
+    "explanation": "In 'The Study of Poetry' Arnold praised his divine fluidity of movement but not high seriousness.",
+    "type": "quiz",
+    "topic": "chaucer",
+    "level": "H"
+   },
+   {
+    "q_no": 6,
+    "question": "The idiom 'to leave no stone unturned' means",
+    "options": [
+     "To try every possible means",
+     "To clear stones from a field",
+     "To be lazy and slow",
+     "To destroy an old stone house"
+    ],
+    "correct_option_id": 0,
+    "explanation": "To make every effort.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "M"
+   },
+   {
+    "q_no": 7,
+    "question": "Choose the antonym of 'ephemeral'",
+    "options": [
+     "Fleeting",
+     "Short-lived",
+     "Permanent",
+     "Brief"
+    ],
+    "correct_option_id": 2,
+    "explanation": "Ephemeral = lasting a short time.",
+    "type": "quiz",
+    "topic": "lang",
+    "level": "H"
+   },
+   {
+    "q_no": 8,
+    "question": "George Eliot's first novel was",
+    "options": [
+     "Adam Bede",
+     "The Mill on the Floss",
+     "Middlemarch",
+     "Silas Marner"
+    ],
+    "correct_option_id": 0,
+    "explanation": "Adam Bede (1859) came after the Scenes of Clerical Life (1858).",
+    "type": "quiz",
+    "topic": "geliot",
+    "level": "E"
+   },
+   {
+    "q_no": 9,
+    "question": "The case 'Jarndyce and Jarndyce' appears in",
+    "options": [
+     "Little Dorrit",
+     "Bleak House",
+     "Hard Times",
+     "Great Expectations"
+    ],
+    "correct_option_id": 1,
+    "explanation": "Bleak House (1852-53) criticises the Court of Chancery.",
+    "type": "quiz",
+    "topic": "dickens",
+    "level": "E"
+   },
+   {
+    "q_no": 10,
+    "question": "Hardy's 'Poems of 1912-13' were written after the death of",
+    "options": [
+     "Florence Dugdale",
+     "Jemima",
+     "His mother",
+     "Emma Gifford"
+    ],
+    "correct_option_id": 3,
+    "explanation": "Emma, Hardy's first wife, died in 1912.",
+    "type": "quiz",
+    "topic": "hardy",
+    "level": "H"
+   }
+  ]
+ }
+]
