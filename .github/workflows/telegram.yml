@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: telegram-post
@@ -15,6 +16,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,28 +29,34 @@ jobs:
       - name: Jaanch (validate)
         run: python publish.py --check || true
 
-      - name: Due posts bhejo
+      # GitHub ka cron der se chalta hai, isliye ye run khud ~5h40m tak
+      # chalta rehta hai aur har 5 minute me due posts bhejta hai.
+      - name: Posts bhejte raho (har 5 minute)
         id: send
-        continue-on-error: true
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python publish.py
-
-      - name: Status wapas save karo
-        if: always()
         run: |
           git config user.name "telegram-bot"
           git config user.email "telegram-bot@users.noreply.github.com"
-          git add status.json || true
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "update post status"
-          for i in 1 2 3; do
-            git pull --rebase && git push && exit 0
-            sleep 5
+          fail=0
+          while [ "$SECONDS" -lt 20400 ]; do
+            git pull -q --rebase || true
+            python publish.py || fail=1
+            git add status.json || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "update post status"
+              for i in 1 2 3; do
+                git pull -q --rebase && git push -q && break
+                sleep 5
+              done
+            fi
+            sleep 300
           done
-          exit 1
+          exit $fail
 
-      - name: Agar koi post fail hui to run ko laal karo
-        if: steps.send.outcome == 'failure'
-        run: exit 1
+      - name: Agla run khud shuru karo
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run telegram.yml --ref main || true
