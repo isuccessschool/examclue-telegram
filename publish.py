@@ -240,7 +240,7 @@ def send_entry(e, cfg, promos):
             send_text(part)
             time.sleep(0 if DRY_RUN else 1)
     elif t == "photo":
-        send_photo(e["file"], e.get("caption", ""))
+        send_photo(e["file"], e.get("caption", ""), ({"inline_keyboard": [[{"text": e["button"]["text"], "url": e["button"]["url"]}]]} if e.get("button") else None))
     elif t == "album":
         send_album(e["files"], e.get("caption", ""))
     elif t == "document":
